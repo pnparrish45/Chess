@@ -1,1 +1,66 @@
+name: Sensei weekly report
+
+on:
+  schedule:
+    - cron: "0 11 * * 1"   # Mondays 11:00 UTC (7 AM Eastern in summer, 6 AM in winter)
+  workflow_dispatch:
+    inputs:
+      max_games:
+        description: "Games to engine-analyze this run (newest first)"
+        default: "200"
+      time_classes:
+        description: "Only these time classes, comma list (blank = all). e.g. blitz,rapid"
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sensei
+  cancel-in-progress: false
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Stockfish + python-chess
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq stockfish
+          pip install -q -r requirements.txt
+
+      - name: Fetch games from chess.com
+        env:
+          CHESS_USERNAME: ${{ vars.CHESS_USERNAME }}
+        run: python fetch_games.py
+
+      - name: Analyze with Stockfish + build report
+        env:
+          CHESS_USERNAME: ${{ vars.CHESS_USERNAME }}
+          MAX_GAMES: ${{ github.event.inputs.max_games || '200' }}
+          TIME_CLASSES: ${{ github.event.inputs.time_classes || vars.TIME_CLASSES || '' }}
+          ENGINE_DEPTH: ${{ vars.ENGINE_DEPTH || '12' }}
+          STOCKFISH_PATH: /usr/games/stockfish
+        run: python analyze.py
+
+      - name: Commit data + report
+        run: |
+          git config user.name "sensei-bot"
+          git config user.email "sensei-bot@users.noreply.github.com"
+          git add data reports
+          git diff --cached --quiet && echo "nothing new" && exit 0
+          git commit -m "Sensei report $(date -u +%F)"
+          git push
+
+      - name: Show report on the run page
+        if: always()
+        run: |
+          [ -f reports/latest.md ] && cat reports/latest.md >> "$GITHUB_STEP_SUMMARY" || echo "No report produced" >> "$GITHUB_STEP_SUMMARY"
 
