@@ -1,4 +1,44 @@
 date,time_class,opening,move_no,side,phase,sharp,loss,played,best,fen,game
+2026-09-27,rapid,Kings Pawn Opening,58,white,endgame,False,25.6,Rg3,d6,4k3/6r1/4P3/3P4/3K2p1/2R5/8/8 w - - 0 58,https://www.chess.com/game/live/184470438900
+2026-09-27,rapid,Kings Pawn Opening,59,white,endgame,False,23.0,Ke5,Rb3,8/4k1r1/4P3/3P4/3K2p1/6R1/8/8 w - - 2 59,https://www.chess.com/game/live/184470438900
+2026-09-27,rapid,Kings Pawn Opening,63,white,endgame,True,35.3,Rd1,Rf7+,8/4k3/4P3/3P2r1/4K3/6p1/8/5R2 w - - 2 63,https://www.chess.com/game/live/184470438900
+2026-09-27,rapid,Kings Pawn Opening,85,white,middlegame,True,23.8,Qd6+,Qb7+,1K6/8/rk6/3Q4/8/8/8/8 w - - 21 85,https://www.chess.com/game/live/184470438900
+2026-09-27,rapid,Kings Gambit Accepted Becker Defense,18,black,middlegame,False,51.0,b5,Nh5,rn2k3/pp3p2/2pp3b/6q1/2BPPpb1/2NK2n1/PPPB1R1Q/8 b q - 11 18,https://www.chess.com/game/live/184460289258
+2026-09-27,rapid,Kings Gambit Accepted Becker Defense,19,black,middlegame,True,32.1,Qh5,bxc4+,rn2k3/p4p2/2pp3b/1p4q1/2BPPBb1/2NK2n1/PPP2R1Q/8 b q - 0 19,https://www.chess.com/game/live/184460289258
+2026-09-27,rapid,Kings Gambit Accepted Becker Defense,40,black,endgame,False,25.0,Bc2,Bb1,8/B7/4k3/1pKp4/4b3/2P5/PP6/8 b - - 4 40,https://www.chess.com/game/live/184460289258
+2026-09-27,rapid,Kings Gambit Accepted Becker Defense,42,black,endgame,False,35.3,d4,Bd3,8/B7/3k4/1K1p4/2P5/8/PPb5/8 b - - 0 42,https://www.chess.com/game/live/184460289258
+2026-09-27,rapid,Kings Pawn Opening,12,white,opening,True,25.0,a4,Qd1,r3kb1r/ppp1qp1p/4bnp1/1P2p3/3nP3/2pP1Q1P/P1B2PP1/RNB1K1NR w KQkq - 1 12,https://www.chess.com/game/live/184459915910
+2026-09-27,rapid,Queens Pawn Opening Horwitz Defense,16,black,middlegame,True,42.5,Qf6,exd3,r1b2rk1/1p2npp1/p1np2qp/8/4p2N/2PQP2P/PP2BPPB/R4R1K b - - 1 16,https://www.chess.com/game/live/184458793492
+2026-09-27,rapid,Queens Pawn Opening Horwitz Defense,22,black,middlegame,True,31.5,exf3,g5,2r2rk1/1p2npp1/p1n4p/8/4p2N/2P1PP1P/PP4PB/R4R1K b - - 0 22,https://www.chess.com/game/live/184458793492
+2026-09-27,rapid,Queens Pawn Opening Horwitz Defense,41,black,endgame,False,32.7,e2,Rd1+,1R6/8/6kp/6p1/1p1r4/1P2p2P/6P1/6K1 b - - 1 41,https://www.chess.com/game/live/184458793492
+2026-09-27,rapid,Queens Pawn Opening Horwitz Defense,45,black,endgame,False,49.3,Kh5,Kg7,8/8/4R1kp/6p1/1p6/1r5P/5KP1/8 b - - 1 45,https://www.chess.com/game/live/184458793492
+2026-09-27,rapid,Queens Pawn Opening Horwitz Defense,49,black,endgame,False,74.5,Rxh3,Rg3+,8/8/4R2p/6p1/1p4Pk/1r5P/6K1/8 b - - 6 49,https://www.chess.com/game/live/184458793492
+2026-09-27,rapid,Scandinavian Defense,32,white,middlegame,False,28.1,Rg3,Bf6+,8/4k1B1/2r1p2p/2p3p1/2Pn4/1P3R1P/5PP1/6K1 w - - 13 32,https://www.chess.com/game/live/184433579532
+2026-09-27,rapid,Scandinavian Defense,41,white,endgame,False,32.6,g4,Ra5,8/8/2r1p3/7R/3k4/5P1P/6P1/6K1 w - - 0 41,https://www.chess.com/game/live/184433579532
+2026-09-27,rapid,Scandinavian Defense,58,white,endgame,False,46.4,Kf7,Ke5,8/4R1P1/5Krk/8/5P2/8/8/8 w - - 3 58,https://www.chess.com/game/live/184433579532
+2026-09-27,rapid,Scandinavian Defense,63,white,endgame,True,47.2,f6,Kf6,5k2/8/4K3/5P2/8/8/8/8 w - - 1 63,https://www.chess.com/game/live/184433579532
+2026-09-27,rapid,Kings Pawn Opening Leonardis Variation,26,black,middlegame,False,34.3,Kc7,Rh3,2kr2n1/p7/2pp1p2/2n1p3/4P3/3P1r2/P1PB4/1NK3R1 b - - 1 26,https://www.chess.com/game/live/184433158306
+2026-09-27,rapid,Kings Pawn Opening Leonardis Variation,27,black,middlegame,False,29.0,Ne6,Kd7,3r2n1/p1k5/2pp1p2/2n1p3/1B2P3/3P1r2/P1P5/1NK3R1 b - - 3 27,https://www.chess.com/game/live/184433158306
+2026-09-27,rapid,Bishops Opening,10,black,opening,False,32.9,Be7,c6,r1b2b1r/2pp1kpp/p4n2/1p2P3/3p3q/5Q2/PPP2PPP/RNB1R1K1 b - - 0 10,https://www.chess.com/game/live/184432778024
+2026-09-26,rapid,Kings Pawn Opening Kings Knight Variation,20,black,middlegame,False,24.7,Nxe4,Nh5,rn2k2r/1pp2pp1/p2p1nqp/3Pp3/4P1bB/PBN3Q1/1PP2PP1/R4RK1 b kq - 3 20,https://www.chess.com/game/live/184427173614
+2026-09-26,rapid,Kings Pawn Opening Kings Knight Variation,23,black,middlegame,False,22.2,Bd7,g5,rn2k2r/1pp2pp1/p2p3p/3Pp3/3q2bB/PB3PQ1/1PP3P1/R4R1K b kq - 2 23,https://www.chess.com/game/live/184427173614
+2026-09-26,rapid,Kings Pawn Opening Kings Knight Variation,24,black,middlegame,True,70.5,Rf8,Qxh4+,rn2k2r/1ppb1pQ1/p2p3p/3Pp3/3q3B/PB3P2/1PP3P1/R4R1K b kq - 0 24,https://www.chess.com/game/live/184427173614
+2026-09-26,rapid,French Defense Steinitz Attack,20,white,middlegame,False,28.7,Bxa5,d5,5r1r/p1ppkp1p/1pn1p1p1/n3P3/2PP4/P1B5/3N1PPP/1R3RK1 w - - 0 20,https://www.chess.com/game/live/184384816416
+2026-09-25,rapid,Kings Pawn Opening,22,white,middlegame,False,32.2,Qf3,Nc5,1k1rr3/pppbq3/2n2pp1/4p2p/B3N2P/2PPQ1P1/PP3P2/R3K2R w KQ - 4 22,https://www.chess.com/game/live/184361592032
+2026-09-25,rapid,Kings Pawn Opening Kings Knight Variation,44,black,middlegame,False,34.4,Re1+,Ne4,1Qn1r1k1/3q1pp1/5n1p/8/1B6/6P1/PPP2P1P/6K1 b - - 23 44,https://www.chess.com/game/live/184355938548
+2026-09-24,rapid,Kings Pawn Opening,8,white,opening,False,22.0,Bb3,d3,r1bqkb1r/ppp2p1p/5np1/3Pn3/2B1p3/2P1Q3/PP1P1PPP/RNB1K1NR w KQkq - 2 8,https://www.chess.com/game/live/184281813356
+2026-09-24,rapid,Kings Pawn Opening,10,white,opening,True,39.5,Qg3,d4,r1bqk2r/p1p2p1p/1p3np1/2bPn3/4p3/2P1Q3/PPBP1PPP/RNB1K1NR w KQkq - 2 10,https://www.chess.com/game/live/184281813356
+2026-09-24,rapid,Kings Pawn Opening,17,white,middlegame,False,26.7,Ke2,gxf3,r3k2r/p3qp1p/1pp3p1/2bn1b2/Q3p3/2P2nNP/PPBP1PP1/RNB1K2R w KQkq - 6 17,https://www.chess.com/game/live/184281813356
+2026-09-23,rapid,Queens Pawn Opening Horwitz Defense,6,black,opening,False,28.4,a6,g5,r1b1kbnr/ppp2pp1/2nppq1p/8/3P1B2/2P1PNP1/PP3P1P/RN1QKB1R b KQkq - 0 6,https://www.chess.com/game/live/184280828050
+2026-09-23,rapid,Queens Pawn Opening Horwitz Defense,7,black,opening,False,26.0,Nge7,g5,r1b1kbnr/1pp2pp1/p1nppq1p/8/3P1B2/2PBPNP1/PP3P1P/RN1QK2R b KQkq - 1 7,https://www.chess.com/game/live/184280828050
+2026-09-23,rapid,Queens Pawn Opening Horwitz Defense,19,black,middlegame,False,29.3,g5,Bxh4,r3brk1/1pp1b1p1/p1npp2p/8/3P1q1P/2PB1N2/PPQN1P2/2KR2R1 b - - 1 19,https://www.chess.com/game/live/184280828050
+2026-09-23,rapid,Kings Pawn Opening Kings Knight Variation,27,black,middlegame,False,25.6,Ng8,Nbxc6,rnb2r1k/2p1n1q1/p1Pp3p/Qp1Pp3/4PpP1/5RP1/PP1BB2N/R5K1 b - - 5 27,https://www.chess.com/game/live/184279608340
+2026-09-23,rapid,Kings Pawn Opening,21,white,middlegame,True,38.3,Ng3,Rxg7+,r4rk1/1p1q1ppp/p1pbb3/4p3/P3B3/2P1Q2P/1P2NP1K/RN4R1 w - - 5 21,https://www.chess.com/game/live/184235980910
+2026-09-23,rapid,Kings Pawn Opening,23,white,middlegame,True,35.0,Ne2,Nh5,r4rk1/1p1q1ppp/p1pbb3/4p3/P3B3/2P1Q1NP/1P1N1P1K/R5R1 w - - 9 23,https://www.chess.com/game/live/184235980910
+2026-09-23,rapid,Kings Pawn Opening,27,white,middlegame,False,24.1,a5,Nh5,r4rk1/1pb2ppp/p1p1q3/4p3/P3N3/2P1Q1NP/1P3P1K/R5R1 w - - 4 27,https://www.chess.com/game/live/184235980910
+2026-09-23,rapid,Kings Pawn Opening,28,white,middlegame,False,27.5,Qe2,Nf5,r4rk1/1pb2ppp/p1p5/P3p3/4N3/1qP1Q1NP/1P3P1K/R5R1 w - - 1 28,https://www.chess.com/game/live/184235980910
+2026-09-23,rapid,Kings Pawn Opening,33,white,middlegame,False,30.4,Nh4,Rg1,r4rk1/1pb2pp1/p1p4p/P3pq2/4N3/2P2N1P/1P2QP1K/R2R4 w - - 2 33,https://www.chess.com/game/live/184235980910
+2026-09-23,rapid,Kings Pawn Opening,39,white,middlegame,True,24.6,Qxf3,Kh2,2r2rk1/1pbR2p1/p1p4p/P3p3/1P2Q2q/2P2pNP/5PK1/R7 w - - 0 39,https://www.chess.com/game/live/184235980910
 2026-09-23,rapid,Kings Pawn Opening Kings Knight Variation,34,black,middlegame,False,23.5,b4,a4+,r4rk1/5p2/3p2p1/pppP2Pp/2n1PR2/PK6/2P5/7R b - - 1 34,https://www.chess.com/game/live/184233567334
 2026-09-23,rapid,Kings Pawn Opening Kings Knight Variation,39,black,middlegame,False,27.1,Rd8,Re8,r5k1/5p2/3p1Rp1/2pP2Pp/pr2P3/R2K4/2P5/8 b - - 4 39,https://www.chess.com/game/live/184233567334
 2026-09-23,rapid,Kings Pawn Opening Kings Knight Variation,44,black,middlegame,False,23.1,Rc8,Kg7,5rk1/R4p2/3R2p1/2pP2rp/2K1P3/2P5/8/8 b - - 1 44,https://www.chess.com/game/live/184233567334
@@ -346,3 +386,324 @@ date,time_class,opening,move_no,side,phase,sharp,loss,played,best,fen,game
 2026-07-26,rapid,Kings Pawn Opening,25,white,middlegame,False,41.8,Bf4,Bd1,3q2k1/r4bbn/2p2r1p/1p1p3B/p2P4/P1N3QP/1P1B1PP1/R3R1K1 w - - 5 25,https://www.chess.com/game/live/172080368730
 2026-07-26,rapid,Kings Pawn Opening,31,white,middlegame,False,56.6,Nf4,Ng3,7k/4r1rn/2pq3p/1p1p3Q/p2P4/P6P/1P2NPP1/R3R1K1 w - - 1 31,https://www.chess.com/game/live/172080368730
 2026-07-26,rapid,Kings Pawn Opening,45,white,endgame,False,22.9,h4,Rxb5,1R6/4r3/4Pk1p/1p3P2/p1p3P1/P2p3P/1P1K4/8 w - - 3 45,https://www.chess.com/game/live/172080368730
+2026-07-25,rapid,Italian Game,6,black,opening,False,23.8,Be7,Qd8,r1b1kbnr/ppp2pp1/2np1q1p/4p3/2B1P3/2NP1N2/PPP2PPP/R1BQ1RK1 b kq - 2 6,https://www.chess.com/game/live/172068985114
+2026-07-25,rapid,Italian Game,32,black,middlegame,True,25.8,g6,Qxf5,7r/2b2ppk/3R3p/q4Q2/2PpPB2/3P2P1/P4PKP/8 b - - 6 32,https://www.chess.com/game/live/172068985114
+2026-07-25,rapid,Scandinavian Defense,14,white,middlegame,False,44.7,Bg5,Qe2,2kr1b1r/ppp1pp1p/2q3p1/8/3PQB2/2P5/PP3PPP/R4RK1 w - - 2 14,https://www.chess.com/game/live/172060126298
+2026-07-24,rapid,Van t Kruijs Opening,23,black,middlegame,False,22.3,Nh5,Nd7,2kr4/ppp2pp1/2n2np1/6P1/2q5/2P2N1P/P2B2Q1/2K1R3 b - - 0 23,https://www.chess.com/game/live/172016750710
+2026-07-24,rapid,Van t Kruijs Opening,26,black,middlegame,True,37.8,Kb8,Ne6,2kr4/ppp2pp1/2n3p1/6P1/5nQ1/2P2N1P/q2B4/3KR3 b - - 3 26,https://www.chess.com/game/live/172016750710
+2026-07-24,rapid,Van t Kruijs Opening,29,black,middlegame,True,23.0,Qb6+,Rxe1,1k2r3/ppp2pp1/2n3p1/6P1/5Q2/2P2N1P/3B1K2/1q2R3 b - - 4 29,https://www.chess.com/game/live/172016750710
+2026-07-24,rapid,Van t Kruijs Opening,30,black,middlegame,False,24.5,Rf8,Rxe1,1k2r3/ppp2pp1/1qn3p1/6P1/5Q2/2P2N1P/3B2K1/4R3 b - - 6 30,https://www.chess.com/game/live/172016750710
+2026-07-24,rapid,Van t Kruijs Opening,32,black,middlegame,False,21.0,f6,Qb5,2k2r2/ppp2pp1/1qn3p1/6P1/4Q2P/2P2N2/3B2K1/4R3 b - - 0 32,https://www.chess.com/game/live/172016750710
+2026-07-23,rapid,Kings Pawn Opening Kings Knight Variation,10,black,opening,False,27.2,b5,Qh5,r1b1k1nr/1pp1bpp1/p2p3p/4q3/2B1P3/1QP5/PP1N1PPP/R1B2RK1 b kq - 1 10,https://www.chess.com/game/live/171947666622
+2026-07-23,rapid,Kings Pawn Opening Kings Knight Variation,11,black,opening,True,56.6,Qf6,bxc4,r1b1k1nr/2p1bpp1/p2p3p/1p2q3/2B1P3/1QP2N2/PP3PPP/R1B2RK1 b kq - 1 11,https://www.chess.com/game/live/171947666622
+2026-07-23,rapid,Kings Pawn Opening Kings Knight Variation,46,black,endgame,True,24.5,Nb3,Ne4,3b4/1k6/3p2K1/2p2Pp1/1p4P1/8/1P1n4/R7 b - - 1 46,https://www.chess.com/game/live/171947666622
+2026-07-23,rapid,Kings Pawn Opening Kings Knight Variation,47,black,endgame,False,24.3,Nd4,c4,3b4/1k6/3p2K1/2p2Pp1/1p4P1/1n6/1P6/4R3 b - - 3 47,https://www.chess.com/game/live/171947666622
+2026-07-23,rapid,Kings Pawn Opening Kings Knight Variation,48,black,endgame,True,25.6,Nf3,Bxf6,3b4/1k6/3p1PK1/2p3p1/1p1n2P1/8/1P6/4R3 b - - 0 48,https://www.chess.com/game/live/171947666622
+2026-07-23,rapid,Kings Pawn Opening Kings Knight Variation,49,black,endgame,False,45.2,Kc6,Ne5+,3b4/1k6/3pRPK1/2p3p1/1p4P1/5n2/1P6/8 b - - 2 49,https://www.chess.com/game/live/171947666622
+2026-07-22,rapid,Kings Pawn Opening,14,white,middlegame,False,26.5,b5,f3,2kr1bnr/ppp1q3/2np1p2/P3p3/1PB1P1bp/2PQ4/3PNPP1/RNB2RK1 w - - 0 14,https://www.chess.com/game/live/171898708930
+2026-07-22,rapid,Kings Pawn Opening,19,white,middlegame,False,28.5,Bb2,f3,1nkr1bnr/p1p1q3/Pp1p1p2/1P1Qp3/2B1P1b1/2P3Pp/3PNP1K/RNB2R2 w - - 2 19,https://www.chess.com/game/live/171898708930
+2026-07-22,rapid,Kings Pawn Opening,22,white,middlegame,False,24.2,Qf3,Qb7+,1nkr1b1r/p1p1q3/Pp1p1n2/1P1QpP2/8/2P3Pp/1B1PBP1K/RN3R2 w - - 1 22,https://www.chess.com/game/live/171898708930
+2026-07-20,rapid,Queens Pawn Opening Horwitz Defense,12,black,opening,True,31.7,g4,dxe5,2kr1bnr/1ppb1p2/p1npq2p/4P1p1/4N3/3BPNB1/PPP2PPP/R2Q1RK1 b - - 0 12,https://www.chess.com/game/live/171808766850
+2026-07-20,rapid,Queens Pawn Opening Horwitz Defense,15,black,middlegame,False,22.8,e4,Nge7,2kr1bnr/1ppb4/p1n1q2p/4pp2/6pN/1PNBP1B1/P1P2PPP/R2Q1RK1 b - - 1 15,https://www.chess.com/game/live/171808766850
+2026-07-20,rapid,Queens Pawn Opening Horwitz Defense,19,black,middlegame,False,31.6,Na5,b5,N1kr2nr/1p1bb1q1/p1n4p/5p2/2B1p1pN/1P2P1B1/P1P2PPP/R2Q1RK1 b - - 2 19,https://www.chess.com/game/live/171808766850
+2026-07-19,rapid,Kings Pawn Opening,21,white,middlegame,True,31.1,Rae1,Qxa8+,r5k1/2p1qpbp/p2p2p1/1p6/8/2P2Q1P/P4PP1/R4RK1 w - - 0 21,https://www.chess.com/game/live/171799324188
+2026-07-19,rapid,French Defense Normal Variation,9,black,opening,False,29.4,Qg6,Qd8,r1b1k1nr/1pp2pp1/p1nbpq1p/4N3/3PNB2/8/PPPQ1PPP/R3KB1R b KQkq - 2 9,https://www.chess.com/game/live/171790568260
+2026-07-19,rapid,French Defense Normal Variation,18,black,middlegame,True,29.2,Qf7,f4,r1b2rk1/6p1/2p1p2p/p2n1p1q/P1BP4/2P3B1/1P1Q1PPP/R4RK1 b - - 1 18,https://www.chess.com/game/live/171790568260
+2026-07-19,rapid,Sicilian Defense,12,white,opening,False,23.9,Nc3,d4,r1b1k1nr/p2q1pbp/1p2p1p1/1Np1n1N1/8/1Q5P/PPPP1PP1/R1B1KB1R w KQkq - 0 12,https://www.chess.com/game/live/171785833616
+2026-07-16,rapid,Queens Pawn Opening Horwitz Defense,7,black,opening,False,23.6,Na5,Nb8,r1b1kbnr/ppp2pp1/2np1q1p/3Pp3/2P5/4PNP1/PP3PBP/RNBQK2R b KQkq - 0 7,https://www.chess.com/game/live/171671122480
+2026-07-15,rapid,Kings Pawn Opening,10,white,opening,False,20.7,Bg5,Nd2,r2qr1k1/ppp1bp1p/2npbnpB/4p3/4P3/2PP2QP/PP2BPP1/RN2K1NR w KQ - 2 10,https://www.chess.com/game/live/171587685658
+2026-07-15,rapid,Kings Pawn Opening,27,white,middlegame,False,43.9,Ke2,Kf2,r3r3/p1p3kp/5pp1/8/3N4/4n2P/P2B2P1/R3K2R w KQ - 0 27,https://www.chess.com/game/live/171587685658
+2026-07-15,rapid,Kings Pawn Opening,29,white,middlegame,False,26.0,Bc3,Rc1,r3r3/p1p3kp/5pp1/8/3N4/3K3P/P2B2P1/n6R w - - 0 29,https://www.chess.com/game/live/171587685658
+2026-07-15,rapid,Kings Pawn Opening,30,white,middlegame,True,33.9,Rxa1,Kc4,r2r4/p1p3kp/5pp1/8/3N4/2BK3P/P5P1/n6R w - - 2 30,https://www.chess.com/game/live/171587685658
+2026-07-15,rapid,Kings Pawn Opening Leonardis Variation,28,black,middlegame,False,22.6,Nxd3,Rae8,r4rk1/5pp1/3p1b1p/p1p1n2B/PpP5/1P1PB2P/6P1/4RRK1 b - - 1 28,https://www.chess.com/game/live/171587325616
+2026-07-15,rapid,Kings Pawn Opening Leonardis Variation,36,black,middlegame,False,39.2,Nxb3,Re8,r6k/6p1/8/p1pB4/PpPn4/1P5P/6P1/5RK1 b - - 2 36,https://www.chess.com/game/live/171587325616
+2026-07-14,rapid,Kings Pawn Opening Kings Knight Variation,10,black,opening,True,21.8,Be7,Bg4,r1b1kb1r/pp3pp1/2pp1n1p/4q3/2B1P3/2N2Q2/PPP2PPP/R1BR2K1 b kq - 3 10,https://www.chess.com/game/live/171542501214
+2026-07-14,rapid,Sicilian Defense,26,white,middlegame,False,20.6,Rb5,Kf1,6k1/3b1p1p/6p1/2r5/1RP5/7P/4BPP1/6K1 w - - 1 26,https://www.chess.com/game/live/171542228006
+2026-07-14,rapid,French Defense Normal Variation,11,black,opening,False,28.1,c6,Nf6,r1bqkbnr/1pp2pp1/p6p/3Np3/4P3/P2BB3/1PP2PPP/R2Q1RK1 b kq - 1 11,https://www.chess.com/game/live/171542126472
+2026-07-14,rapid,Scotch Game,14,black,middlegame,True,24.4,Ke5,Ke7,r1b3nr/ppp4p/2np1kp1/8/2B1PR2/2P5/PP4PP/RN4K1 b - - 0 14,https://www.chess.com/game/live/171541926094
+2026-07-14,rapid,Scotch Game,15,black,middlegame,False,31.2,Nce7,Rb8,r1b2Rnr/ppp4p/2np2p1/4k3/2B1P3/2P5/PP4PP/RN4K1 b - - 2 15,https://www.chess.com/game/live/171541926094
+2026-07-14,rapid,Scotch Game,16,black,middlegame,False,21.2,a6,d5,r1b2Rnr/ppp1n2p/3p2p1/4k3/2B1P3/2P5/PP1N2PP/R5K1 b - - 4 16,https://www.chess.com/game/live/171541926094
+2026-07-14,rapid,Scotch Game,17,black,middlegame,False,21.3,b5,d5,r1b2Rnr/1pp1n2p/p2p2p1/4k3/2B1P3/2P5/PP1N2PP/4R1K1 b - - 1 17,https://www.chess.com/game/live/171541926094
+2026-07-12,rapid,Kings Pawn Opening Kings Knight Variation,11,black,opening,False,66.8,Kd7,Be6,r1b1kbnr/ppp2pp1/2nP4/6pq/8/2NB1N2/PP3PPP/R2QR1K1 b kq - 0 11,https://www.chess.com/game/live/171489867728
+2026-07-12,rapid,Kings Pawn Opening Kings Knight Variation,16,black,middlegame,True,40.6,Nxe7,Bxe7,rkb1Rb1r/pp2Npp1/2n5/5Bpq/8/5N2/PP3PPP/R2Q2K1 b - - 0 16,https://www.chess.com/game/live/171489867728
+2026-07-11,rapid,Caro Kann Defense,14,white,middlegame,False,27.8,h4,Bd2,r4rk1/pp1n1ppp/2bb2q1/3pp1B1/3P2Q1/2P4P/PP2NPP1/RN3RK1 w - - 8 14,https://www.chess.com/game/live/171442263456
+2026-07-11,rapid,Caro Kann Defense,30,white,middlegame,False,24.6,Nxc4,g4,3qr1k1/5r1p/Rpb5/5p2/2pPpR2/4Q1P1/1P1N2P1/6K1 w - - 0 30,https://www.chess.com/game/live/171442263456
+2026-07-11,rapid,Bishops Opening,19,black,middlegame,False,25.6,Bxe4+,Bc7,rn1b1rk1/p3nNp1/2b4p/2p5/2B1P3/P5PP/1qP1NPK1/R2Q1R2 b - - 0 19,https://www.chess.com/game/live/171441822394
+2026-07-11,rapid,Sicilian Defense,11,white,opening,False,23.2,c4,Qd1,r2q1rk1/pb1p1pbp/1pn1pnp1/8/1P2P3/2PP1Q1P/3B1PP1/RN2KBNR w KQ - 0 11,https://www.chess.com/game/live/171407060728
+2026-07-11,rapid,Sicilian Defense,21,white,middlegame,True,92.3,Qh8+,Bh6+,r3rk2/pb1qnp1Q/1p4p1/1P4B1/6P1/3p4/4BPP1/bN2K1NR w K - 1 21,https://www.chess.com/game/live/171407060728
+2026-07-11,rapid,Kings Pawn Opening Kings Knight Variation,14,black,middlegame,False,22.0,Qh7,Qh5,r3k2r/1p1nbpp1/3p1nqp/4p3/P2PP2N/8/2P2PPP/R1BQR1K1 b kq - 2 14,https://www.chess.com/game/live/171406914904
+2026-07-11,rapid,Polish Opening Bugayev Attack,13,black,middlegame,False,24.1,Qh4,h5,2kr2nr/1p1nbpp1/p1p1bq1p/4p3/1P3PP1/P1BP3P/3NP1B1/RN1Q1RK1 b - - 0 13,https://www.chess.com/game/live/171406696922
+2026-07-11,rapid,French Defense Advance Nimzowitsch System,12,white,opening,True,28.4,Be2,Nf3,rnb2rk1/1p2q1pp/p3p3/3p4/2pPn3/P1P4P/1P3PPN/RN1QKB1R w KQ - 2 12,https://www.chess.com/game/live/171404471348
+2026-07-08,rapid,Polish Opening,8,black,opening,False,21.9,Qc6,Qf5,rn2kbnr/ppp2ppp/3p4/8/1P1Bq1b1/2N2N2/P1P1BPPP/R2QK2R b KQkq - 3 8,https://www.chess.com/game/live/171269179438
+2026-07-08,rapid,Polish Opening,13,black,middlegame,True,20.1,Bg6,Bxe2,rn2kb1r/2p1nppp/p1qp4/1p4Nb/1P1B4/2N4P/P1P1BPP1/1R1QR1K1 b kq - 3 13,https://www.chess.com/game/live/171269179438
+2026-07-08,rapid,Polish Opening,28,black,middlegame,True,30.0,Nb3,Nxe5,3k1r2/3n1pp1/p3b2p/np1NN3/6P1/P6P/3R1P2/4R1K1 b - - 2 28,https://www.chess.com/game/live/171269179438
+2026-07-08,rapid,Polish Opening,39,black,middlegame,False,25.6,Nc3,Rxf2+,8/2k2rp1/7p/pp1R4/4n1P1/P6P/5PK1/3R4 b - - 9 39,https://www.chess.com/game/live/171269179438
+2026-07-08,rapid,Polish Opening,69,black,middlegame,True,47.5,Re7,Kxg8,6R1/5kP1/8/8/4r3/6RK/8/8 b - - 2 69,https://www.chess.com/game/live/171269179438
+2026-07-06,rapid,Kings Pawn Opening,21,white,middlegame,False,29.4,d4,Qxh8+,1r2k2r/p2q1p2/b2pnQ2/4p2p/2p1P3/2PP3P/P1B1N1P1/2R1K2R w Kk - 0 21,https://www.chess.com/game/live/171208877948
+2026-07-06,rapid,Kings Pawn Opening,29,white,middlegame,False,22.0,Qa5,Rf1,2b1k1r1/Q4p2/3p4/7p/P1p1P3/2P3q1/1rB1R1P1/2R3K1 w - - 1 29,https://www.chess.com/game/live/171208877948
+2026-07-06,rapid,Kings Pawn Opening,32,white,middlegame,False,30.5,Qf2,Rf1,6r1/Q4p2/3pk3/7p/P1p1P3/2P3qb/1rB1R1P1/2R3K1 w - - 7 32,https://www.chess.com/game/live/171208877948
+2026-07-06,rapid,Kings Pawn Opening Kings Knight Variation,28,black,middlegame,False,23.6,a5,Be6,2rr2k1/p2b1pp1/2pR3p/1p6/4P1P1/P1P4P/1KP3B1/6R1 b - - 2 28,https://www.chess.com/game/live/171195645596
+2026-07-06,rapid,Kings Pawn Opening Kings Knight Variation,29,black,middlegame,True,28.1,f6,Be6+,2rr2k1/3b1pp1/2pR3p/pp6/4P1P1/PKP4P/2P3B1/6R1 b - - 1 29,https://www.chess.com/game/live/171195645596
+2026-07-06,rapid,Kings Pawn Opening Kings Knight Variation,31,black,middlegame,True,30.6,c5,Be6+,2rr4/3b1kp1/2pR1p1p/pp6/4P1PP/PKP5/2P5/6RB b - - 0 31,https://www.chess.com/game/live/171195645596
+2026-07-06,rapid,Kings Pawn Opening Kings Knight Variation,44,black,middlegame,True,27.7,f4,Rb8,2r5/8/4b3/1Bp1Ppk1/p7/P1P5/1KP5/5R2 b - - 0 44,https://www.chess.com/game/live/171195645596
+2026-07-06,rapid,Kings Pawn Opening Kings Knight Variation,53,black,endgame,False,35.3,Ra2,Rb5,8/8/8/5k2/p1p2p2/P1P2R2/1rP5/2K5 b - - 3 53,https://www.chess.com/game/live/171195645596
+2026-07-06,rapid,Kings Pawn Opening Kings Knight Variation,54,black,endgame,False,53.8,Rxa3,Kg4,8/8/8/5k2/p1p2p2/P1P4R/r1P5/2K5 b - - 5 54,https://www.chess.com/game/live/171195645596
+2026-07-06,rapid,Kings Pawn Opening Kings Knight Variation,60,black,endgame,False,40.1,Kf2,Kd2,8/8/8/8/2p5/KpP1kp2/8/4R3 b - - 3 60,https://www.chess.com/game/live/171195645596
+2026-07-06,rapid,Kings Pawn Opening Kings Knight Variation,15,black,middlegame,False,69.7,Qxe5,Qxc2,rnb2rk1/pp3pp1/1n5p/4P3/8/6Q1/PqPB1PPP/R4RK1 b - - 3 15,https://www.chess.com/game/live/171179547966
+2026-07-06,rapid,Pirc Defense,11,white,opening,False,28.8,dxc5,Be3,r2qk2r/1b1nbpp1/pp1ppn1p/2p5/P2PP3/2PB1Q1P/1P2NPP1/RNB2RK1 w kq - 0 11,https://www.chess.com/game/live/171179324738
+2026-07-06,rapid,Pirc Defense,37,white,middlegame,True,35.4,Bd4,Bc5,2r3r1/3Nkp2/pB1Rp3/P3R3/1P3b2/2P2pP1/4bP2/6K1 w - - 7 37,https://www.chess.com/game/live/171179324738
+2026-07-06,rapid,Pirc Defense,39,white,middlegame,False,21.4,Bf4,Nb6,2r5/3Nkp2/p2Rp3/P3B1r1/1P6/2P2pP1/4bP2/6K1 w - - 1 39,https://www.chess.com/game/live/171179324738
+2026-07-05,rapid,Vienna Game,11,black,opening,False,33.9,Bd7,Na6,rnb1k1nr/4bpp1/3p2qp/pN2p3/4P1P1/3P3P/PPP2P1N/R1BQ1RK1 b kq - 0 11,https://www.chess.com/game/live/171152108464
+2026-07-04,rapid,Kings Pawn Opening Kings Knight Variation,15,black,middlegame,False,22.2,Bg5,Nf5,rn3rk1/pp2npp1/2pQ1bqp/4P3/2B5/2N1B1P1/PPP2P1P/R4K2 b - - 0 15,https://www.chess.com/game/live/171123879818
+2026-07-04,rapid,Kings Pawn Opening Kings Knight Variation,20,black,middlegame,True,66.1,Kh7,Rf8,rn1Q2k1/pp3rp1/2p4p/3n1q2/2B2P2/2N3P1/PPP4P/R4K2 b - - 2 20,https://www.chess.com/game/live/171123879818
+2026-07-04,rapid,Kings Pawn Opening Kings Knight Variation,40,black,middlegame,False,26.0,Rh3,Re6+,5k2/R7/2p3K1/3r3P/N2n1P2/1P2r3/P6P/8 b - - 6 40,https://www.chess.com/game/live/171123879818
+2026-07-04,rapid,Kings Pawn Opening Kings Knight Variation,41,black,middlegame,False,83.3,Rhxh5,Rf5+,5k2/R7/2p2K2/3r3P/N2n1P2/1P5r/P6P/8 b - - 8 41,https://www.chess.com/game/live/171123879818
+2026-07-03,rapid,Kings Pawn Opening,14,white,middlegame,True,42.1,Bxd3,bxc4,r2qk2r/2p2p1p/p1n2np1/1pb1p3/2b1P3/1PPp1Q1P/P1BPNPP1/RNB2RK1 w kq - 0 14,https://www.chess.com/game/live/171045403388
+2026-07-03,rapid,Kings Pawn Opening,34,white,middlegame,False,33.1,Rxh4,Nf4,1r3r1k/1b2q1b1/1p1p1p1p/pBp5/P1P1P1Pp/1P1P1Q2/4N2R/1R4K1 w - - 0 34,https://www.chess.com/game/live/171045057702
+2026-07-03,rapid,Kings Pawn Opening,48,white,middlegame,False,22.4,Bxd7+,Ng7+,1r6/3b4/1p1pkqQ1/pBp1bN2/P1P1P3/1P1P4/8/5RK1 w - - 10 48,https://www.chess.com/game/live/171045057702
+2026-07-02,rapid,Kings Pawn Opening,13,white,middlegame,False,23.6,exf5,e5,2krr3/ppp3bp/2p1b1pn/5p2/3PP3/1PP1B2P/P3BPP1/RN2K2R w KQ - 0 13,https://www.chess.com/game/live/171000314614
+2026-07-02,rapid,Kings Pawn Opening Kings Knight Variation,25,black,middlegame,True,22.6,c4,e4,r2n1rk1/6p1/5bpp/1pp1p3/8/pPPN1N2/P4PPP/R4RK1 b - - 1 25,https://www.chess.com/game/live/170999544024
+2026-07-02,rapid,Kings Pawn Opening Kings Knight Variation,26,black,middlegame,False,22.3,g5,cxb3,r2n1rk1/6p1/5bpp/1p2N3/2p5/pPP2N2/P4PPP/R4RK1 b - - 0 26,https://www.chess.com/game/live/170999544024
+2026-07-02,rapid,Kings Pawn Opening Kings Knight Variation,34,black,middlegame,False,31.6,Bb2,Nxc2,1r3rk1/6p1/7p/6p1/2Nn4/p1bN4/P1R2PPP/5RK1 b - - 11 34,https://www.chess.com/game/live/170999544024
+2026-07-02,rapid,Kings Pawn Opening Kings Knight Variation,44,black,middlegame,False,30.5,Rxa2,Bc5,5r2/4N1pk/7p/6p1/r2b4/3R1P2/P5PP/5R1K b - - 0 44,https://www.chess.com/game/live/170999544024
+2026-07-02,rapid,Kings Pawn Opening Kings Knight Variation,60,black,middlegame,True,71.5,g4,Rxg1+,8/1N6/8/3R2pp/8/4kP2/2r3PP/2r3RK b - - 7 60,https://www.chess.com/game/live/170999544024
+2026-07-02,rapid,Kings Pawn Opening Kings Knight Variation,61,black,middlegame,True,81.5,hxg4,Rxg1+,8/1N6/8/3R3p/6P1/4k3/2r3PP/2r3RK b - - 0 61,https://www.chess.com/game/live/170999544024
+2026-07-02,rapid,Kings Pawn Opening,24,white,middlegame,False,24.2,cxd5,Nc5,7r/kp1r1pb1/p3qnpp/P2pp3/1PP5/1N1P1Q1P/4NPP1/R4RK1 w - - 0 24,https://www.chess.com/game/live/170999383918
+2026-07-01,rapid,Kings Pawn Opening Kings Knight Variation,13,black,middlegame,False,20.1,dxe5,Bxf3+,rn2k1nr/4bpp1/2pp1q1p/pp2P3/2B1P1b1/2N1BNP1/PPP2PK1/R2QR3 b kq - 0 13,https://www.chess.com/game/live/170985294960
+2026-07-01,rapid,Kings Pawn Opening Kings Knight Variation,57,black,middlegame,False,95.1,h3,Ra7+,8/5Kpk/5p2/r7/5R1p/6r1/8/6b1 b - - 3 57,https://www.chess.com/game/live/170985294960
+2026-07-01,rapid,Bishops Opening,16,black,middlegame,False,31.1,Qe6,Qh7,rnb1k1nr/pp2bpp1/2p3qp/3p3B/P2Pp3/4B1NP/1PPN1PP1/R2Q1RK1 b kq - 2 16,https://www.chess.com/game/live/170955397610
+2026-07-01,rapid,Bishops Opening,45,black,middlegame,False,65.8,Kf8,Kh7,1r6/1b1r1pk1/5Qp1/pq2P2p/7P/1P6/6P1/3RR2K b - - 1 45,https://www.chess.com/game/live/170955397610
+2026-07-01,rapid,Bishops Opening,48,black,middlegame,True,57.8,Qc6,Qh3+,1Q6/1b1qkp2/6p1/p3P2p/7P/1P6/6P1/4R2K b - - 0 48,https://www.chess.com/game/live/170955397610
+2026-07-01,rapid,Bishops Opening,52,black,endgame,False,34.0,Kf8,Bd5,8/1b2kp2/6p1/p6p/7P/1P6/6P1/2R4K b - - 3 52,https://www.chess.com/game/live/170955397610
+2026-07-01,rapid,Kings Pawn Opening,22,white,middlegame,True,34.8,Nxh3,Nxd3,2kr3r/ppp2p2/2n5/4b1p1/4PN1p/2Pq3b/P4PP1/RNQB1RK1 w - - 0 22,https://www.chess.com/game/live/170954847100
+2026-07-01,rapid,Kings Pawn Opening,26,white,middlegame,False,36.0,Qd2,Nd2,1k4rr/ppp2p2/2n5/4b3/2q1P2p/2P2B1N/P4PP1/RN1Q1RK1 w - - 5 26,https://www.chess.com/game/live/170954847100
+2026-07-01,rapid,Kings Pawn Opening,27,white,middlegame,True,51.1,Nf4,Kh1,1k4rr/ppp2p2/2n1q3/4b3/4P2p/2P2B1N/P2Q1PP1/RN3RK1 w - - 7 27,https://www.chess.com/game/live/170954847100
+2026-06-30,rapid,Bishops Opening,7,black,opening,True,42.0,Be7,Qxf3,rnb1kbnr/pp3pp1/2pp1q1p/4p3/2B1P3/2NPBQ1N/PPP2PPP/R3K2R b KQkq - 1 7,https://www.chess.com/game/live/170911302434
+2026-06-30,rapid,Bishops Opening,16,black,middlegame,False,32.1,Ng6,Kh7,r4rk1/4bpp1/2pp1n1p/pp2n3/4P3/P1NPB2P/BPP2K1P/R5R1 b - - 1 16,https://www.chess.com/game/live/170911302434
+2026-06-30,rapid,Bishops Opening,22,black,middlegame,False,38.3,g5,Nh5,5rk1/4b1p1/3p1npp/2p5/1p2PN2/3PB2P/RPP2K1P/8 b - - 1 22,https://www.chess.com/game/live/170911302434
+2026-06-30,rapid,Bishops Opening,31,black,middlegame,False,20.1,Re7,Re2+,6R1/6p1/3pr1kp/6p1/1p1B4/1Pn4P/2P3KP/8 b - - 2 31,https://www.chess.com/game/live/170911302434
+2026-06-30,rapid,Kings Pawn Opening Leonardis Variation,15,white,middlegame,False,42.3,Bg5,Ng3,r3k1r1/ppp1qp2/2nb1n1B/4p3/4P3/2P2Q2/PP1NNPP1/R3K2R w KQq - 1 15,https://www.chess.com/game/live/170908437468
+2026-06-30,rapid,Kings Pawn Opening Leonardis Variation,23,white,middlegame,False,20.2,Qe3,f3,1k4r1/ppp1qp2/2nb1n2/4p3/4Pr2/2P4Q/PP1NNPP1/1K1R2R1 w - - 14 23,https://www.chess.com/game/live/170908437468
+2026-06-30,rapid,Kings Pawn Opening Leonardis Variation,32,white,middlegame,False,21.7,Qf1,cxb4,1k6/ppp2p2/2n2n2/2q1p3/1bN1P3/2P3P1/PPK1Q3/3R4 w - - 2 32,https://www.chess.com/game/live/170908437468
+2026-06-30,rapid,Kings Pawn Opening Leonardis Variation,37,white,middlegame,False,21.3,b3,a3,1k6/1pp2Q2/p7/2q1p3/1bN1n3/6P1/PPK5/3R4 w - - 2 37,https://www.chess.com/game/live/170908437468
+2026-06-30,rapid,Kings Pawn Opening Leonardis Variation,38,white,middlegame,False,40.4,Re1,Rd5,1k6/2p2Q2/p7/1pq1p3/1bN1n3/1P4P1/P1K5/3R4 w - - 0 38,https://www.chess.com/game/live/170908437468
+2026-06-29,rapid,Van t Kruijs Opening,18,black,middlegame,True,28.6,O-O,Ra8,1r2k2r/2q1nppp/2n5/N7/Q3p3/4P3/3P1PPP/R3K1NR b KQk - 0 18,https://www.chess.com/game/live/170863153096
+2026-06-29,rapid,Van t Kruijs Opening,20,black,middlegame,False,23.8,h6,Nb4,1r3rk1/2q2ppp/2n5/8/4Q3/4P3/3P1PPP/R3K1NR b KQ - 0 20,https://www.chess.com/game/live/170863153096
+2026-06-29,rapid,Van t Kruijs Opening,23,black,middlegame,False,32.1,Qb7,Nd3+,1r2r1k1/2q2pp1/7p/4n3/8/4P2Q/3PNPPP/R3K2R b KQ - 5 23,https://www.chess.com/game/live/170863153096
+2026-06-29,rapid,Van t Kruijs Opening,30,black,middlegame,True,47.9,Re8,Rxd5,1r1r2k1/1q3p2/6p1/3N3p/4n3/4PQ2/5PPP/R2R2K1 b - - 3 30,https://www.chess.com/game/live/170863153096
+2026-06-29,rapid,Van t Kruijs Opening,47,black,middlegame,True,23.5,Qe6,Kf8,8/3qkp2/6p1/4Q2p/7P/4P1P1/5P2/6K1 b - - 3 47,https://www.chess.com/game/live/170863153096
+2026-06-29,rapid,Van t Kruijs Opening,51,black,middlegame,False,30.2,Qf6,Kh7,8/6k1/4q1p1/5p1p/3Q3P/4P1P1/5P2/6K1 b - - 1 51,https://www.chess.com/game/live/170863153096
+2026-06-28,rapid,Kings Pawn Opening Kings Knight Variation,15,black,middlegame,False,24.4,Bg5,Ne7,r3k1nr/1ppn1pp1/p2p1b1p/3Pp2q/4P3/4BNR1/PPPQBP1P/2KR4 b kq - 7 15,https://www.chess.com/game/live/170850841688
+2026-06-28,rapid,Kings Pawn Opening Kings Knight Variation,16,black,middlegame,True,38.1,Qxh2,Bxe3,r3k1nr/1ppn1pp1/p2p3p/3PN1bq/4P3/4B1R1/PPPQBP1P/2KR4 b kq - 0 16,https://www.chess.com/game/live/170850841688
+2026-06-28,rapid,Kings Pawn Opening Kings Knight Variation,32,black,middlegame,False,23.4,Rc8,Rg8,7r/1pp2p2/3p2k1/1r1P2qp/p3R3/P1Q5/1PP2P2/1K2R3 b - - 3 32,https://www.chess.com/game/live/170850841688
+2026-06-28,rapid,Kings Pawn Opening Kings Knight Variation,34,black,middlegame,True,29.8,Qf5,Qc5,2r5/1pp2p2/3p2k1/1r1q3p/p2R1P2/P1Q5/1PP5/1K2R3 b - - 1 34,https://www.chess.com/game/live/170850841688
+2026-06-28,rapid,Kings Pawn Opening,15,white,middlegame,False,21.5,Be3,Qe3,2kr4/pppb1pb1/3pqnp1/n3p1Br/4P2p/P1PP1Q1P/1PBNNPP1/R4RK1 w - - 2 15,https://www.chess.com/game/live/170832102396
+2026-06-28,rapid,Kings Pawn Opening,13,white,middlegame,True,63.0,Qxb7,Qxc5,r2qk2r/pppb1p1p/6p1/1QbP2n1/4p3/2P4P/PP1P1PP1/RNB1K1NR w KQkq - 2 13,https://www.chess.com/game/live/170817195462
+2026-06-27,rapid,Kings Pawn Opening,28,white,middlegame,False,20.1,Bc1,Ne6,r4rk1/2q1np2/2bp1npb/p1p1p1Np/1pP1P3/1P1PQ1NP/1B2BPP1/R4RK1 w - - 8 28,https://www.chess.com/game/live/170802485908
+2026-06-27,rapid,Kings Pawn Opening,45,white,middlegame,False,25.6,Bd1,Bg4,5bk1/7r/2b2p2/p1p2PpB/1pPnP3/1P1P3P/5R2/1RB3K1 w - - 5 45,https://www.chess.com/game/live/170802485908
+2026-06-27,rapid,Kings Pawn Opening,8,black,opening,True,33.9,b5,g6,rnb1k1nr/1p2bpp1/p1pp1q1p/4p2Q/4P3/P1NPBN2/1PP2PPP/2KR1B1R b kq - 0 8,https://www.chess.com/game/live/170801758592
+2026-06-27,rapid,Kings Pawn Opening,9,black,opening,True,38.9,Nd7,g6,rnb1k1nr/4bpp1/p1pp1q1p/1p2p2Q/3PP3/P1N1BN2/1PP2PPP/2KR1B1R b kq - 0 9,https://www.chess.com/game/live/170801758592
+2026-06-27,rapid,Kings Pawn Opening,11,black,opening,False,22.8,Bd8,Bg4,r1b1k1nr/4bpp1/p1pp1q1p/1p2n2Q/3BP3/P1N2N2/1PP2PPP/2KR1B1R b kq - 1 11,https://www.chess.com/game/live/170801758592
+2026-06-27,rapid,Kings Pawn Opening,23,black,middlegame,False,20.3,bxc4,Bb7,r1b1r1k1/5pp1/p6p/1p3P2/2P3P1/P4P2/2P4P/1K1R1B1R b - - 0 23,https://www.chess.com/game/live/170801758592
+2026-06-27,rapid,Kings Pawn Opening,5,black,opening,True,22.6,d6,c6,r1bqkbnr/pppp1pp1/7p/3Pp3/3nP3/3B4/PPP2PPP/RNBQK1NR b KQkq - 2 5,https://www.chess.com/game/live/170772172404
+2026-06-27,rapid,Kings Pawn Opening,24,black,middlegame,True,36.6,Bxf5,Qxe2,r3k2r/1ppb1p2/p2p1p1p/1P1P1P2/Q7/4q3/PB1NB3/2KR4 b kq - 0 24,https://www.chess.com/game/live/170772172404
+2026-06-27,rapid,Kings Pawn Opening,26,black,middlegame,True,27.3,Kd7,Kf8,r3k2r/1pp2p2/p2p1p1p/1PqP1b2/Q1B5/8/PB1N4/2K1R3 b kq - 3 26,https://www.chess.com/game/live/170772172404
+2026-06-27,rapid,Kings Pawn Opening,28,black,middlegame,True,24.4,bxc6,Qxc6,r6r/1p1k1p2/P1Pp1p1p/2q2b2/Q1B5/8/PB1N4/2K1R3 b - - 0 28,https://www.chess.com/game/live/170772172404
+2026-06-27,rapid,Kings Pawn Opening,29,black,middlegame,True,28.1,Qb6,Qf2,r6r/3k1p2/P1pp1p1p/2q2b2/Q1B5/1N6/PB6/2K1R3 b - - 1 29,https://www.chess.com/game/live/170772172404
+2026-06-27,rapid,Kings Pawn Opening,30,black,middlegame,False,25.3,d5,Rhe8,r6r/3k1p2/Pqpp1B1p/5b2/Q1B5/1N6/P7/2K1R3 b - - 0 30,https://www.chess.com/game/live/170772172404
+2026-06-27,rapid,Kings Pawn Opening,36,black,middlegame,False,25.8,Qc2+,Rhd8+,r6r/4Rp2/P1k2B1p/2N1Qb2/2p5/8/P2K4/1q6 b - - 2 36,https://www.chess.com/game/live/170772172404
+2026-06-27,rapid,Kings Pawn Opening,37,black,middlegame,False,56.3,Rhd8,Rhc8,r6r/4Rp2/P1k2B1p/2N1Qb2/2p5/8/P1q5/4K3 b - - 4 37,https://www.chess.com/game/live/170772172404
+2026-06-27,rapid,Kings Pawn Opening,42,black,middlegame,True,78.2,Ke6,Ke4,r2r4/2R2p2/P4B1p/2Qk1b2/2p5/8/P1q5/4K3 b - - 5 42,https://www.chess.com/game/live/170772172404
+2026-06-27,rapid,French Defense Steinitz Attack,7,white,opening,False,38.0,Bd3,Nf3,rnbq1rk1/ppppb1pp/4p3/8/3Pn3/2P4P/PP3PP1/RNBQKBNR w KQ - 1 7,https://www.chess.com/game/live/170772118106
+2026-06-27,rapid,French Defense Steinitz Attack,9,white,opening,True,54.9,Qe5,Bxg6,rnbq1rk1/ppppb2p/4p1p1/7Q/3P4/2PB3P/PP3nP1/RNB1K1NR w KQ - 0 9,https://www.chess.com/game/live/170772118106
+2026-06-27,rapid,Kings Pawn Opening Kings Knight Variation,21,black,middlegame,True,24.5,Kf6,Kg8,rn1b1r2/1pp2pk1/p2p2n1/3PpNqQ/2N1P3/P1P3P1/1P3P1P/R3R1K1 b - - 2 21,https://www.chess.com/game/live/170771871256
+2026-06-27,rapid,Kings Pawn Opening Kings Knight Variation,25,black,middlegame,False,23.4,Kxf4,Nxh4,rn1b1r2/1pp2p2/p2p2n1/3P1N2/2N1PPkP/P1P5/1P6/R3R1K1 b - - 0 25,https://www.chess.com/game/live/170771871256
+2026-06-27,rapid,Kings Pawn Opening Kings Knight Variation,26,black,middlegame,True,45.2,Kxe4,Kg4,rn1b1r2/1pp2p2/p2p2n1/3P1N2/2N1Pk1P/P1P5/1P6/R4RK1 b - - 1 26,https://www.chess.com/game/live/170771871256
+2026-06-26,rapid,Kings Pawn Opening,22,white,middlegame,False,49.8,Ne7+,g4,r5k1/pp3pp1/2n4p/3N1b2/3P1N2/P1P2P1P/1P4P1/R1B1b1K1 w - - 0 22,https://www.chess.com/game/live/170724409818
+2026-06-26,rapid,Kings Pawn Opening,47,white,endgame,True,83.8,c5,d8=Q+,8/pp1Pkp2/6pp/7r/1PP3Kb/P7/8/3R4 w - - 1 47,https://www.chess.com/game/live/170724409818
+2026-06-25,rapid,Bishops Opening,4,black,opening,True,74.6,Qf6,Qxf2#,rnb1k1nr/pppp1ppp/8/2b1p3/2B1P2q/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 5 4,https://www.chess.com/game/live/170719132150
+2026-06-25,rapid,Bishops Opening,16,black,middlegame,False,24.2,Bd8,Bg4,rnb2k1r/pp4p1/1bpp1nB1/4p1N1/4P2q/2NP1Q2/PPP2P1P/R3K1R1 b Q - 4 16,https://www.chess.com/game/live/170719132150
+2026-06-25,rapid,Bishops Opening,21,black,middlegame,True,30.6,Ke7,Kf8,r2bk3/pp1n2N1/2pp1n1r/4pQ2/4P2q/2NP4/PPP2P1P/2KR2R1 b - - 0 21,https://www.chess.com/game/live/170719132150
+2026-06-25,rapid,Kings Pawn Opening Kings Knight Variation,13,black,middlegame,False,21.9,Qg6,b4,r2bk1nr/3n1pp1/p1p1bq1p/1p2p3/P3P3/2NBBN2/1PPQ1PPP/R2R2K1 b kq - 0 13,https://www.chess.com/game/live/170715923288
+2026-06-25,rapid,Kings Pawn Opening,17,white,middlegame,False,33.5,Nd5,h3,r2qr1k1/pp3p1p/6p1/8/3nB1b1/2NPQ3/PPP2PPP/2R2RK1 w - - 3 17,https://www.chess.com/game/live/170677753350
+2026-06-25,rapid,Kings Pawn Opening,21,white,middlegame,True,32.1,Nxe4,dxe4,r2qr1k1/pp3p1p/6p1/8/4b3/2NPQ3/PPP2PPP/2R4K w - - 0 21,https://www.chess.com/game/live/170677753350
+2026-06-25,rapid,Kings Pawn Opening,35,white,middlegame,True,35.3,Qxa5,Qe6+,3r2k1/7p/Q5p1/p4p2/2P4P/3q2P1/5PK1/8 w - - 0 35,https://www.chess.com/game/live/170677753350
+2026-06-24,rapid,Kings Pawn Opening Kings Knight Variation,28,black,middlegame,False,28.4,Kh4,Kg6,r1b1r3/2R3p1/3R1n2/p3p1pk/P3P1P1/1P1P1P2/7P/6K1 b - - 0 28,https://www.chess.com/game/live/170668353730
+2026-06-24,rapid,Kings Pawn Opening Kings Knight Variation,29,black,middlegame,False,21.0,Re6,Bxg4,r1b1r3/2R3p1/3R1n2/p3p1p1/P3P1Pk/1P1P1P2/6KP/8 b - - 2 29,https://www.chess.com/game/live/170668353730
+2026-06-24,rapid,Kings Pawn Opening Kings Knight Variation,32,black,middlegame,False,79.3,Ra6,Nxg4,r7/8/5nR1/p3p1p1/P3P1Pk/1b1P1P2/6KP/8 b - - 1 32,https://www.chess.com/game/live/170668353730
+2026-06-24,rapid,Kings Pawn Opening Kings Knight Variation,35,black,middlegame,False,32.4,Ra6,Bxg6,8/r4b2/5nR1/p3p1p1/P3P1Pk/3P1P1P/6K1/8 b - - 4 35,https://www.chess.com/game/live/170668353730
+2026-06-24,rapid,Kings Pawn Opening Kings Knight Variation,39,black,endgame,False,38.8,Kxg4,Bd5+,8/r4bR1/8/p3P1p1/P4pPk/3P4/6K1/8 b - - 0 39,https://www.chess.com/game/live/170668353730
+2026-06-24,rapid,Kings Pawn Opening Kings Knight Variation,41,black,endgame,False,34.3,Re7,Ra6,8/r4bR1/4P3/p5p1/P5k1/3P1p2/5K2/8 b - - 1 41,https://www.chess.com/game/live/170668353730
+2026-06-24,rapid,Scandinavian Defense,14,white,middlegame,False,37.8,Qe4,Qa2+,rnbqr1k1/ppb3pp/5n2/P3p3/1B6/2P2N1P/4QPP1/RN2KB1R w KQ - 1 14,https://www.chess.com/game/live/170630980276
+2026-06-23,rapid,Kings Pawn Opening,11,white,opening,False,26.8,Bd2,Nc3,r1bq1rk1/1pp2ppp/p7/3n4/1b1P4/3Q4/PP3PPP/RNB1KBNR w KQ - 0 11,https://www.chess.com/game/live/170584766022
+2026-06-23,rapid,Kings Pawn Opening,14,white,middlegame,True,38.8,Nge2,Be2,r1b1r1k1/1pp2ppp/p7/8/1b1q1n2/2N3Q1/PP1B1PPP/R3KBNR w KQ - 2 14,https://www.chess.com/game/live/170584766022
+2026-06-23,rapid,Kings Pawn Opening,7,white,opening,True,25.1,Bb3,d4,r1bqk2r/ppp2p1p/2np1np1/2b1p3/2B1P3/2P2Q1P/PP1P1PP1/RNB1K1NR w KQkq - 0 7,https://www.chess.com/game/live/170584627104
+2026-06-23,rapid,Kings Pawn Opening,9,white,opening,True,39.8,Bc2,Bg5,r3k2r/ppp1qp1p/2npbnp1/2b1p3/4P3/1BPP1Q1P/PP3PP1/RNB1K1NR w KQkq - 1 9,https://www.chess.com/game/live/170584627104
+2026-06-22,rapid,Reti Opening Pirc Invitation,16,black,middlegame,False,33.8,Ra4,Ne7,1nb1kbnr/5pp1/5q1p/1p1Qp3/1r1pP3/B2P1NP1/4NPBP/5RK1 b k - 1 16,https://www.chess.com/game/live/170579594574
+2026-06-22,rapid,Reti Opening Pirc Invitation,26,black,middlegame,False,49.2,Qxf5,Rb6,1n5r/5ppk/r4q1p/4pP2/1Q1p4/3P2P1/4NPBP/2R3K1 b - - 0 26,https://www.chess.com/game/live/170579594574
+2026-06-22,rapid,Clemenz Opening,26,black,middlegame,False,32.7,Rd8,dxc4,rn2r1k1/2qb1p2/2p3p1/p2p3p/2BP4/1PQ1P2P/1B3PP1/R3K2R b K - 5 26,https://www.chess.com/game/live/170535674106
+2026-06-21,rapid,Kings Pawn Opening,24,white,middlegame,False,41.9,f3,Qd1,2k1r3/ppprb2p/2b3p1/3p3n/3p1p2/PB1P3P/1PPQ1PP1/RNB2K2 w - - 0 24,https://www.chess.com/game/live/170523670722
+2026-06-21,rapid,Kings Pawn Opening,25,white,middlegame,False,28.5,Qf2,Qd1,2k1r3/pppr3p/2bb2p1/3p3n/3p1p2/PB1P1P1P/1PPQ2P1/RNB2K2 w - - 1 25,https://www.chess.com/game/live/170523670722
+2026-06-21,rapid,Kings Pawn Opening,30,white,middlegame,True,41.7,Qxg6,Kh2,2k1r3/ppp4Q/2bb2p1/3p4/3p1p2/PB1P1PnP/1PPBr1P1/RN4K1 w - - 1 30,https://www.chess.com/game/live/170523670722
+2026-06-21,rapid,Kings Pawn Opening,31,white,middlegame,False,33.7,Qg4+,Kh2,2k1r3/1pp5/p1bb2Q1/3p4/3p1p2/PB1P1PnP/1PPBr1P1/RN4K1 w - - 0 31,https://www.chess.com/game/live/170523670722
+2026-06-21,rapid,Kings Pawn Opening,34,white,middlegame,False,44.2,Qxd5,Qxe8+,2k1r1Q1/1ppb4/p2b4/3p4/3p1p2/PB1P1PnP/1PPBr1P1/RN4K1 w - - 6 34,https://www.chess.com/game/live/170523670722
+2026-06-21,rapid,Kings Pawn Opening,36,white,middlegame,False,43.1,Qg5,Qxe8+,2k1r1Q1/1ppb4/p2b4/8/3p1p2/PB1P1PnP/1PPBr1P1/RN4K1 w - - 3 36,https://www.chess.com/game/live/170523670722
+2026-06-21,rapid,Kings Pawn Opening,38,white,middlegame,False,42.3,Qc4,Bf7,2k1r1Q1/1ppb4/p2b4/8/3p1p2/PB1P1PnP/1PPBr1P1/RN4K1 w - - 7 38,https://www.chess.com/game/live/170523670722
+2026-06-21,rapid,Kings Pawn Opening,39,white,middlegame,True,42.0,Qxd4,Qg8,2k1r3/1pp5/p2b4/1b6/2Qp1p2/PB1P1PnP/1PPBr1P1/RN4K1 w - - 9 39,https://www.chess.com/game/live/170523670722
+2026-06-21,rapid,Kings Pawn Opening,40,white,middlegame,False,26.9,Qc5,Qe4,2k1r3/1pp5/p7/1b2b3/3Q1p2/PB1P1PnP/1PPBr1P1/RN4K1 w - - 1 40,https://www.chess.com/game/live/170523670722
+2026-06-21,rapid,Kings Pawn Opening,41,white,middlegame,False,47.5,Ra2,Kh2,2k1r3/1pp5/p7/1bQ5/5p2/PB1P1PnP/1bPBr1P1/RN4K1 w - - 0 41,https://www.chess.com/game/live/170523670722
+2026-06-21,rapid,Kings Pawn Opening,42,white,middlegame,True,47.5,Bc4,Kh2,2k1r3/1pp5/p7/1bQ1b3/5p2/PB1P1PnP/R1PBr1P1/1N4K1 w - - 2 42,https://www.chess.com/game/live/170523670722
+2026-06-21,rapid,Kings Pawn Opening Leonardis Variation,17,black,middlegame,False,23.9,g6,Rd8,r1b2rk1/4nppq/2np1b1p/p1p1p2P/Pp2P3/1P1P1NN1/1BPQBPP1/2KR3R b - - 2 17,https://www.chess.com/game/live/170522449692
+2026-06-21,rapid,Kings Pawn Opening Leonardis Variation,21,black,middlegame,False,22.7,Qh7,Qxd2+,r1b2rk1/4n3/2np1bpq/p1p1p2p/Pp2P3/1P1P1NN1/1BPQBPPR/2KR4 b - - 3 21,https://www.chess.com/game/live/170522449692
+2026-06-21,rapid,Kings Pawn Opening Leonardis Variation,26,black,middlegame,True,64.9,Qf7,Qxh6,r1b2rk1/4n1b1/2np1q1R/p1p1p1R1/Pp2P3/1P1P1N2/1BPQBPP1/2K5 b - - 4 26,https://www.chess.com/game/live/170522449692
+2026-06-21,rapid,Kings Gambit Accepted Kings Knight Gambit,6,black,opening,False,22.3,Na5,Ne5,r1b1kbnr/ppp2ppp/2np1q2/3P4/2B1Pp2/5N2/PPP3PP/RNBQK2R b KQkq - 0 6,https://www.chess.com/game/live/170521874956
+2026-06-21,rapid,Kings Gambit Accepted Kings Knight Gambit,12,black,opening,True,33.6,Qg5,Nf5,r1b1kb1r/p1p1npp1/1p3q1p/3PN3/2N2R2/8/PPP3PP/R1BQ2K1 b kq - 0 12,https://www.chess.com/game/live/170521874956
+2026-06-21,rapid,Kings Pawn Opening,15,white,middlegame,False,21.9,Ne2,Rd1,r4rk1/p1p2pbp/1pnq1np1/4p1B1/4P3/1BP2Q1P/PP3PP1/R3K1NR w KQ - 1 15,https://www.chess.com/game/live/170490275508
+2026-06-21,rapid,Kings Pawn Opening,24,white,middlegame,False,25.4,Bd3,Rxd8,3r1rk1/p1p1q1b1/1p4pp/4pp2/2P1P3/1P3Q1P/PnBR1PP1/2N2RK1 w - - 1 24,https://www.chess.com/game/live/170490275508
+2026-06-21,rapid,Kings Pawn Opening,38,white,endgame,True,24.5,Kf2,Kd2,8/p7/1p1p3p/4k1p1/2P1p1P1/1P2P2P/P3K3/8 w - - 3 38,https://www.chess.com/game/live/170490275508
+2026-06-21,rapid,Kings Pawn Opening,39,white,endgame,False,32.3,a4,cxd5,8/p7/1p5p/3pk1p1/2P1p1P1/1P2P2P/P4K2/8 w - - 0 39,https://www.chess.com/game/live/170490275508
+2026-06-20,rapid,Kings Pawn Opening Kings Knight Variation,19,black,middlegame,False,25.0,Be4,Nc8,rn1bk2r/1pp1npp1/p2p1qbp/2PPp3/6P1/1P2BNNP/P4PB1/R2QR1K1 b kq - 0 19,https://www.chess.com/game/live/170476751404
+2026-06-20,rapid,Kings Pawn Opening Kings Knight Variation,23,black,middlegame,False,41.0,Nxd5,Nd7,rn1bk2r/1p2npp1/p2p3p/3Pp3/4q1P1/PP2BN1P/5P2/R2QRBK1 b kq - 0 23,https://www.chess.com/game/live/170476751404
+2026-06-20,rapid,Kings Pawn Opening Kings Knight Variation,27,black,middlegame,False,39.5,Be7,Bc7,rn1bk2r/1p1q1pp1/p2p3p/4p3/2N3P1/PP2R2P/5P2/2RQ1BK1 b kq - 4 27,https://www.chess.com/game/live/170476751404
+2026-06-20,rapid,Kings Pawn Opening,14,white,middlegame,False,29.7,Nxe5,d4,rn2kb1r/1b3p2/3p3p/ppp1p3/4P1n1/P1PP1N2/1P1NBPP1/R1B2RK1 w kq - 0 14,https://www.chess.com/game/live/170476148172
+2026-06-20,rapid,Kings Pawn Opening,46,white,endgame,True,38.8,Ke6,Kxg5,4k3/R7/3p1K2/4bPr1/P3P3/8/8/8 w - - 1 46,https://www.chess.com/game/live/170476148172
+2026-06-20,rapid,Kings Pawn Opening,47,white,endgame,False,35.8,Rd7,f6,5k2/R7/3pK3/4bPr1/P3P3/8/8/8 w - - 3 47,https://www.chess.com/game/live/170476148172
+2026-06-20,rapid,French Defense,12,white,opening,False,30.5,Nf3,Qe2,r3k2r/pppbb1p1/2n1p2p/1B2Pp2/3Pp2q/2P1Q2P/PP3PP1/R1B1K1NR w KQkq - 0 12,https://www.chess.com/game/live/170446309626
+2026-06-20,rapid,French Defense,14,white,middlegame,False,50.8,fxe3,Ng6,r3k2r/pppbb1p1/2n1p2p/1B2P3/3Pp2N/2P1p2P/PP3PP1/R1B1K2R w KQkq - 0 14,https://www.chess.com/game/live/170446309626
+2026-06-20,rapid,Kings Pawn Opening,22,white,middlegame,False,22.3,O-O,Nxg5,r1b1qr1k/ppp2pp1/3pn2p/4p1nB/2P1P3/P2P1NQP/1P1N1PP1/R3K2R w KQ - 2 22,https://www.chess.com/game/live/170444984122
+2026-06-20,rapid,Kings Pawn Opening,30,white,middlegame,False,20.9,Nh4,Nd4,2r4k/ppp3p1/3pq2p/2n1pr2/2P5/P2P1NQP/1P3PP1/3RR1K1 w - - 0 30,https://www.chess.com/game/live/170444984122
+2026-06-20,rapid,Kings Pawn Opening,33,white,middlegame,False,36.8,Rd2,Qe3,2r4k/pp4p1/2ppq2p/4p1r1/1PP4N/Pn1P1Q1P/5PP1/3RR1K1 w - - 1 33,https://www.chess.com/game/live/170444984122
+2026-06-19,rapid,Nimzowitsch Defense Kennedy Linksspringer Variation,16,black,middlegame,True,40.1,Qxe4,h5,r1b1k1nr/p3bpp1/2ppn1qp/4p3/N1P1P1P1/5N1P/PP1BBP2/2RQR1K1 b kq - 2 16,https://www.chess.com/game/live/170429949042
+2026-06-19,rapid,Nimzowitsch Defense Kennedy Linksspringer Variation,18,black,middlegame,False,22.1,Ng5,h5,r1b1k1nr/p3bpp1/2ppn1qp/4p3/N1P3P1/5N1P/PP1B1PB1/2RQR1K1 b kq - 3 18,https://www.chess.com/game/live/170429949042
+2026-06-18,rapid,Kings Pawn Opening Kings Knight Variation,9,black,opening,False,20.5,c5,Bc5,r1b1k1nr/p1pnbpp1/1p3q1p/4p3/4P3/1P1B4/PBPN1PPP/RN1Q1RK1 b kq - 1 9,https://www.chess.com/game/live/170392647380
+2026-06-18,rapid,Owens Defense,23,white,middlegame,False,35.3,Nxb6,Bxc3,r4rk1/3q1pb1/1p1p2pp/3N4/b2P4/2p3QP/PB3PP1/R3R1K1 w - - 0 23,https://www.chess.com/game/live/170351718590
+2026-06-18,rapid,Owens Defense,24,white,middlegame,True,29.7,Nxa8,Nxa4,r4rk1/5pb1/1Nqp2pp/8/b2P4/2p3QP/PB3PP1/R3R1K1 w - - 1 24,https://www.chess.com/game/live/170351718590
+2026-06-18,rapid,Kings Pawn Opening,18,white,middlegame,False,27.2,Qe3,Nxd4,r2q1r2/2p1bpkp/4bnp1/p3p1B1/PpPnP3/3P1Q1P/3NNPP1/R2B1RK1 w - - 1 18,https://www.chess.com/game/live/170351593602
+2026-06-18,rapid,Kings Pawn Opening,29,white,middlegame,False,29.3,Nc5,Qd4+,6rk/2p2p1p/4b3/p6p/qpP1P3/1N1PQR1P/6P1/6K1 w - - 0 29,https://www.chess.com/game/live/170351593602
+2026-06-18,rapid,Kings Pawn Opening,33,white,middlegame,False,95.1,Nxe6,Rg3,7k/2p3rp/4bQ2/p1N4p/1pP1P3/3P1R1P/2q3PK/8 w - - 1 33,https://www.chess.com/game/live/170351593602
+2026-06-18,rapid,Queens Pawn Opening Horwitz Defense,53,black,middlegame,True,25.5,Kc7,Rxg4,7R/3kn3/3p1p2/4p1p1/r5B1/6P1/5PK1/8 b - - 13 53,https://www.chess.com/game/live/170349947830
+2026-06-18,rapid,Queens Pawn Opening Horwitz Defense,60,black,endgame,False,49.8,f4,Rd4+,8/8/2kp1R2/4pp2/4r1p1/3K2P1/5P2/8 b - - 3 60,https://www.chess.com/game/live/170349947830
+2026-06-17,rapid,Kings Pawn Opening Kings Knight Variation,9,black,opening,True,42.3,Qf6,Qc5+,r1b1kbnr/pp3pp1/2pp3p/4q3/2B1PP2/2N5/PPP3PP/R1BQ1RK1 b kq - 0 9,https://www.chess.com/game/live/170305112198
+2026-06-17,rapid,Kings Pawn Opening Kings Knight Variation,10,black,opening,False,22.7,dxe5,Qd8,r1b1kbnr/pp3pp1/2pp1q1p/4P3/2B2P2/2N5/PPP3PP/R1BQ1RK1 b kq - 0 10,https://www.chess.com/game/live/170305112198
+2026-06-17,rapid,Nimzowitsch Defense Kennedy Linksspringer Variation,14,black,middlegame,False,34.7,O-O-O,g5,r3k1nr/1ppnbpp1/p2p1q1p/3Pp3/P3P3/2N1BNPQ/1PP1BP2/R5K1 b kq - 4 14,https://www.chess.com/game/live/170303979878
+2026-06-17,rapid,Nimzowitsch Defense Kennedy Linksspringer Variation,15,black,middlegame,False,44.1,b6,h5,2kr2nr/Bppnbpp1/p2p1q1p/3Pp3/P3P3/2N2NPQ/1PP1BP2/R5K1 b - - 6 15,https://www.chess.com/game/live/170303979878
+2026-06-17,rapid,Nimzowitsch Defense Kennedy Linksspringer Variation,17,black,middlegame,True,22.8,Nxb6,cxb6,3r2nr/1kpnbpp1/pB1p1q1p/3Pp3/PP2P3/2N2NPQ/2P1BP2/R5K1 b - - 0 17,https://www.chess.com/game/live/170303979878
+2026-06-17,rapid,Scandinavian Defense,19,white,middlegame,False,45.4,Ng5,Rfb1,r4rk1/1b4pp/p1n1pq2/3p4/P2P4/3Q1N1P/2N2PP1/R4RK1 w - - 0 19,https://www.chess.com/game/live/170303705814
+2026-06-16,rapid,French Defense Steinitz Attack,15,white,middlegame,False,27.9,Nd2,Nxh6,rn1qk2r/2pb1p2/4p2n/pp1pP1b1/1P1P2N1/P1PB4/1B3PP1/RN1Q1RK1 w kq - 1 15,https://www.chess.com/game/live/170256085476
+2026-06-16,rapid,French Defense Steinitz Attack,24,white,middlegame,False,33.0,Ng5,g3,rnk4r/2pbbpq1/4p3/pp1pP3/1P1P1Q2/P1PB1N2/5PP1/2BR1RK1 w - - 14 24,https://www.chess.com/game/live/170256085476
+2026-06-16,rapid,French Defense Steinitz Attack,25,white,middlegame,False,30.7,Rde1,Nf3,rnk1b2r/2p1bpq1/4p3/pp1pP1N1/1P1P1Q2/P1PB4/5PP1/2BR1RK1 w - - 16 25,https://www.chess.com/game/live/170256085476
+2026-06-16,rapid,French Defense Steinitz Attack,26,white,middlegame,False,36.5,Re3,Qg3,r1k1b2r/2pnbpq1/4p3/pp1pP1N1/1P1P1Q2/P1PB4/5PP1/2B1RRK1 w - - 18 26,https://www.chess.com/game/live/170256085476
+2026-06-16,rapid,Kings Pawn Opening,14,white,middlegame,False,63.7,Ng5,Qe3,r5k1/pp1nbp1p/2ppb1pQ/q6n/4P3/2PP1N1P/PP2BPP1/RN2K2R w KQ - 6 14,https://www.chess.com/game/live/170255979822
+2026-06-16,rapid,Kings Pawn Opening,13,white,middlegame,False,57.1,Nf3,b4,r1b1k2r/p4p1p/2p2npb/n3p1N1/B7/2PP4/PP3PPP/RNB1K2R w KQkq - 2 13,https://www.chess.com/game/live/170255772874
+2026-06-16,rapid,Kings Pawn Opening,18,white,middlegame,True,41.3,a6,Bb7,B4rk1/p2b1p1p/5np1/P3p3/8/2PP1N2/P4PPP/bN2K2R w K - 1 18,https://www.chess.com/game/live/170255772874
+2026-06-15,rapid,Queens Pawn Opening Horwitz Defense,11,black,opening,True,24.4,Nb8,Qxg2,N1bk2nr/1p1nbpp1/p2p2qp/4p3/2PPP3/3B1N1P/PPQ2PP1/R1B1K2R b KQ - 0 11,https://www.chess.com/game/live/170206551692
+2026-06-15,rapid,Queens Pawn Opening Horwitz Defense,16,black,middlegame,True,23.6,Qf3+,Qxb6,1nbk2nr/1p3pp1/pN1p3p/4P3/2P1P2b/3Bq2P/PPQ2P2/R2K1R2 b - - 1 16,https://www.chess.com/game/live/170206551692
+2026-06-15,rapid,Kings Pawn Opening Kings Knight Variation,17,black,middlegame,True,78.1,Bxf3,Qxd2+,rn1bk1nr/pp3pp1/2pp3p/4p3/B3P1b1/2NPBPP1/PPPQ3q/2K2RR1 b kq - 0 17,https://www.chess.com/game/live/170206096184
+2026-06-15,rapid,Kings Pawn Opening Kings Knight Variation,18,black,middlegame,True,51.4,Qxg1+,Qxd2+,rn1bk1nr/pp3pp1/2pp3p/4p3/B3P3/2NPBRP1/PPPQ3q/2K3R1 b kq - 0 18,https://www.chess.com/game/live/170206096184
+2026-06-14,rapid,Sicilian Defense,37,white,middlegame,False,25.6,Rb7,f4,1Q3bk1/3p3p/p3p1p1/q3Pp2/P2P4/2r2P1P/3N2P1/1R4K1 w - - 2 37,https://www.chess.com/game/live/170204042802
+2026-06-14,rapid,Kings Pawn Opening Kings Knight Variation,6,black,opening,False,39.7,Nce7,Nd4,r1b1kbnr/pppp1ppp/2n5/3Pp1B1/4q3/5N2/PPP1BPPP/RN1QK2R b KQkq - 1 6,https://www.chess.com/game/live/170203702272
+2026-06-14,rapid,Kings Pawn Opening Kings Knight Variation,30,black,middlegame,True,20.8,Qg4,Ne2#,r4rk1/5p2/p2p2p1/2p1p2p/2Pn3P/2Q3Pq/P1N2P2/1R3RK1 b - - 1 30,https://www.chess.com/game/live/170203702272
+2026-06-14,rapid,Kings Pawn Opening Kings Knight Variation,33,black,middlegame,False,20.2,f5,Rfb8,r4rk1/5p2/3p2p1/p1p1p2p/2Pq3P/1Q4P1/P4P2/1RR3K1 b - - 1 33,https://www.chess.com/game/live/170203702272
+2026-06-14,rapid,Kings Pawn Opening Kings Knight Variation,36,black,middlegame,False,20.2,Qf2+,Rf2+,r4rk1/8/1Q1p2p1/p1p1p2p/2Pq3P/6P1/P5K1/1RR5 b - - 0 36,https://www.chess.com/game/live/170203702272
+2026-06-14,rapid,Kings Pawn Opening Kings Knight Variation,38,black,middlegame,False,31.3,Qxa2,Qd4,r5k1/8/1Q1p2p1/p1p1p2p/2P4P/5rPK/P4q2/1R4R1 b - - 4 38,https://www.chess.com/game/live/170203702272
+2026-06-14,rapid,Queens Pawn Opening Horwitz Defense,8,black,opening,False,22.8,exd5,Ne5,r1b1k1nr/1pp1bpp1/p1nppq1p/3P4/2P1P3/2NBBN2/PP3PPP/R2QK2R b KQkq - 0 8,https://www.chess.com/game/live/170198300160
+2026-06-14,rapid,Vienna Game,14,black,middlegame,False,42.4,Nd7,Qf6,rn3rk1/pp2bpp1/2pp2qp/4p3/2BPP3/P1N2NPQ/1PP2P1P/R5K1 b - - 0 14,https://www.chess.com/game/live/170194497086
+2026-06-14,rapid,Kings Fianchetto Opening,10,black,opening,False,52.0,g6,Nxh5,rnbq1rk1/ppb2ppp/2p2n2/3p3N/4p3/PP2P1PP/1BPP1PB1/RN1QK2R b KQ - 6 10,https://www.chess.com/game/live/170194056456
+2026-06-14,rapid,Kings Fianchetto Opening,37,black,middlegame,False,80.1,Nxh1+,Qd2,4k3/pp3p2/2p3p1/7p/P1P5/4PBPP/2q2nK1/2R4R b - - 1 37,https://www.chess.com/game/live/170194056456
+2026-06-14,rapid,French Defense Steinitz Attack,27,white,middlegame,False,20.8,Nd2,Rg4,r6r/pp3qk1/5pp1/4p3/4Qn2/2P2P2/PP3P1P/RN4RK w - - 4 27,https://www.chess.com/game/live/170192765562
+2026-06-14,rapid,French Defense Steinitz Attack,29,white,middlegame,False,41.5,Ne3,Rd1,r6r/p4qk1/1p3p2/4p1p1/4Qn2/2P2P2/PP3P1P/R4NRK w - - 0 29,https://www.chess.com/game/live/170192765562
+2026-06-14,rapid,Caro Kann Defense,11,white,opening,True,29.2,Bd2,Bxa6+,2kr1b1r/p2qp1pp/n1p1bn2/3p4/1p1P4/1PP3QP/P3BPP1/RNB1K1NR w KQ - 0 11,https://www.chess.com/game/live/170191617198
+2026-06-14,rapid,Caro Kann Defense,12,white,opening,False,21.6,Bf3,a3,2kr1b1r/pq2p1pp/n1p1bn2/3p4/1p1P4/1PP3QP/P2BBPP1/RN2K1NR w KQ - 2 12,https://www.chess.com/game/live/170191617198
+2026-06-14,rapid,Caro Kann Defense,14,white,middlegame,False,35.8,Qh4,Bxe4,2kr1b1r/pq2p1pp/n1p1b3/3p4/3Pn3/1PB2BQP/P4PP1/RN2K1NR w KQ - 1 14,https://www.chess.com/game/live/170191617198
+2026-06-14,rapid,Caro Kann Defense,26,white,middlegame,True,81.3,f3,Qxa3,5r2/pkn1Q2p/2p2rp1/3p4/3P4/qPN4P/P4PP1/RR4K1 w - - 1 26,https://www.chess.com/game/live/170191617198
+2026-06-14,rapid,Kings Pawn Opening Kings Knight Variation,11,black,opening,False,25.0,Nf6,Nd7,rnb1k1nr/ppb2p2/2p4p/4p1p1/2B1P3/2N2NB1/PPP2PPP/3RK2R b Kkq - 1 11,https://www.chess.com/game/live/170164539392
+2026-06-14,rapid,Kings Pawn Opening,15,white,middlegame,False,24.4,Ndxe4,Qxe4,r2q1rk1/ppp3bp/2n1b1p1/4p2n/4p3/P1PP1QNP/2BN1PP1/R1B1K2R w KQ - 0 15,https://www.chess.com/game/live/170164311240
+2026-06-13,rapid,Kings Pawn Opening Kings Knight Variation,11,black,opening,False,25.3,Bf6,a5,r1b1k1nr/p3bpp1/1npp2qp/4p3/P3P3/1PN2N2/2P1BPPP/R1BQ1R1K b kq - 2 11,https://www.chess.com/game/live/170156855156
+2026-06-13,rapid,Nimzowitsch Defense Scandinavian Advance Variation,9,white,opening,False,30.5,Bf4,Nxe5,r1b1k2r/ppp1q1pp/3b1n2/3pn3/8/2P2N2/PP2QPPP/RNB1KB1R w KQkq - 4 9,https://www.chess.com/game/live/170149459070
+2026-06-13,rapid,Queens Pawn Opening Horwitz Defense,19,black,middlegame,True,33.2,Bg4,Bxa6,r1b2rk1/p1p1npp1/BpPp3p/3Pp3/4Pq2/P1P2N2/4QPPP/R3K2R b KQ - 1 19,https://www.chess.com/game/live/170148220330
+2026-06-13,rapid,Queens Pawn Opening Horwitz Defense,56,black,middlegame,False,22.6,Ng6,Ng2,8/2p5/1pPp3r/p2Pp1k1/P1P3Pn/5P1p/2B2R1K/8 b - - 7 56,https://www.chess.com/game/live/170148220330
+2026-06-13,rapid,Queens Pawn Opening Horwitz Defense,58,black,endgame,False,26.1,Kg5,Kg7,8/2p5/1pPp2kr/p2Pp3/P1P3P1/5PKp/5R2/8 b - - 1 58,https://www.chess.com/game/live/170148220330
+2026-06-13,rapid,Queens Pawn Opening Horwitz Defense,62,black,endgame,True,31.5,Rxc4,Rxf5,8/2p5/1pPp2k1/p2PpR2/P1P2rP1/5PK1/8/8 b - - 4 62,https://www.chess.com/game/live/170148220330
+2026-06-13,rapid,Kings Gambit Accepted Kings Knight Gambit,7,black,opening,True,22.5,a6,g5,r1b1kbnr/ppp2pp1/2np1q1p/8/2BPPp2/2N2N2/PPP3PP/R1BQ1RK1 b kq - 2 7,https://www.chess.com/game/live/170147940866
+2026-06-13,rapid,Kings Gambit Accepted Kings Knight Gambit,15,black,middlegame,False,40.6,Qe7,Qf5,r1b2rk1/1pp2pp1/p1n1q1np/2b1P3/2B1QB2/2N2N2/PPP3PP/R4R1K b - - 6 15,https://www.chess.com/game/live/170147940866
+2026-06-13,rapid,Kings Pawn Opening Kings Knight Variation,9,black,opening,False,23.8,Qg6,Qe7,r1b1kbnr/pp3pp1/2p2q1p/4p3/2B1P3/2N1B3/PPP2PPP/R2Q1RK1 b kq - 1 9,https://www.chess.com/game/live/170141591734
+2026-06-13,rapid,Kings Pawn Opening,20,white,middlegame,False,28.8,Rd2,Qh4,r4rk1/p1p2pb1/1pnnq1pp/4p3/4P3/1NP1B1QP/PP2NPP1/3R1RK1 w - - 8 20,https://www.chess.com/game/live/170140152376
+2026-06-13,rapid,Vienna Game,9,black,opening,False,26.1,Be7,Nd7,rn2kbnr/p4pp1/2pp1q1p/4p3/4P1b1/2N1BN2/PPPQBPPP/R3K2R b KQkq - 5 9,https://www.chess.com/game/live/170138665282
+2026-06-13,rapid,Kings Pawn Opening,18,white,middlegame,False,45.2,Nxd4,Qe3,r2qk1nb/2p2p1p/p3b1p1/4p3/1pPnP3/3P1Q1P/P3NPP1/RN1BK2R w KQq - 1 18,https://www.chess.com/game/live/170118032642
+2026-06-13,rapid,French Defense Steinitz Attack,23,white,middlegame,True,56.3,Kxf3,Qxf3,r4rk1/2qp1p2/3bpn1p/1Np3p1/P7/1Q3bPP/5PK1/R1B2R2 w - - 0 23,https://www.chess.com/game/live/170117336746
+2026-06-13,rapid,French Defense Steinitz Attack,42,white,middlegame,False,28.2,Bxh4,Rexe7+,4r3/1R2b1k1/4R3/2Nn1pB1/7p/7P/r4PK1/8 w - - 4 42,https://www.chess.com/game/live/170117336746
+2026-06-13,rapid,French Defense Steinitz Attack,44,white,middlegame,True,29.4,Kg3,Kf3,4r1k1/1R2B3/4R3/2N2p2/5n2/7P/r4PK1/8 w - - 1 44,https://www.chess.com/game/live/170117336746
+2026-06-13,rapid,French Defense Steinitz Attack,48,white,middlegame,False,25.7,Kf4,Kf3,4r1k1/6r1/1R6/5p2/3N4/6KP/5P2/8 w - - 2 48,https://www.chess.com/game/live/170117336746
+2026-06-13,rapid,Kings Pawn Opening,24,black,middlegame,False,32.9,Bd7,Bxb4,2r2rk1/4bpp1/R1p1b2p/1p1pP3/1P1P4/4BN1P/5PP1/5RK1 b - - 3 24,https://www.chess.com/game/live/170116251722
+2026-06-13,rapid,Van t Kruijs Opening,31,white,middlegame,False,23.1,Ng3,Nc3,r7/2p2kp1/1b3p2/1p2p2p/1P2N2P/P2r1P2/R1R2PK1/8 w - - 3 31,https://www.chess.com/game/live/170114677172
+2026-06-12,rapid,Kings Pawn Opening,10,white,opening,False,45.0,c3,Nxf6+,r1bqr1k1/ppppbp1p/2n2np1/3Np1B1/2B1P3/3P1Q1P/PPP2PP1/R3K1NR w KQ - 7 10,https://www.chess.com/game/live/170069230598
+2026-06-12,rapid,Kings Pawn Opening,16,white,middlegame,True,44.7,O-O,Nxf6+,r2q1rk1/1b2npb1/p4npp/1p2p3/1P2N3/2P2Q1P/2BP1PP1/RNB1K2R w KQ - 1 16,https://www.chess.com/game/live/170069048300
+2026-06-12,rapid,Kings Pawn Opening,17,white,middlegame,True,41.8,d3,Nxf6+,r2q1rk1/1b3pb1/p4npp/1p2pn2/1P2N3/2P2Q1P/2BP1PP1/RNB2RK1 w - - 3 17,https://www.chess.com/game/live/170069048300
+2026-06-12,rapid,Kings Pawn Opening,18,white,middlegame,True,48.7,Qe3,Nxf6+,r2q1rk1/1b3pb1/p4npp/1p2p3/1P2N2n/2PP1Q1P/2B2PP1/RNB2RK1 w - - 1 18,https://www.chess.com/game/live/170069048300
+2026-06-12,rapid,Kings Pawn Opening,24,white,middlegame,False,26.1,f4,Qg3,2r3k1/1b4b1/p6p/1p2pp2/1P5q/2P1Q2P/5P2/RNB2RK1 w - - 0 24,https://www.chess.com/game/live/170069048300
+2026-06-12,rapid,Kings Pawn Opening,25,white,middlegame,False,63.2,fxe5,Ra2,6k1/1b4b1/p1r4p/1p2pp2/1P3P1q/2P1Q2P/8/RNB2RK1 w - - 1 25,https://www.chess.com/game/live/170069048300
+2026-06-12,rapid,Kings Pawn Opening Kings Knight Variation,34,black,middlegame,False,86.6,Qf2,hxg5,4rrk1/2p3p1/3p3p/pPpP2N1/P1P2P1R/2KQ4/6q1/8 b - - 6 34,https://www.chess.com/game/live/170068013334
+2026-06-12,rapid,Scandinavian Defense,12,white,opening,False,43.5,exf6,Qe3,2kr2nr/ppqnp2p/2p1bpp1/3pP3/1P1P1Q2/P1P2N1P/5PP1/RN2KB1R w KQ - 0 12,https://www.chess.com/game/live/170067966608
+2026-06-12,rapid,Alapin Sicilian Defense...3.Nf3 Nf6,18,white,middlegame,False,34.4,Ne5,Bxc6,r3k2r/1bqp3p/p1n1p3/1p3p2/1P1PB3/P4N2/5PPP/R2Q1RK1 w kq - 0 18,https://www.chess.com/game/live/170066183598
+2026-06-12,rapid,Alapin Sicilian Defense...3.Nf3 Nf6,19,white,middlegame,True,27.3,Ng4,Qh5+,r3k2r/1bqp3p/p1n1p3/1p2N3/1P1Pp3/P7/5PPP/R2Q1RK1 w kq - 0 19,https://www.chess.com/game/live/170066183598
+2026-06-10,rapid,Kings Pawn Opening Kings Knight Variation,43,black,middlegame,False,43.0,f6,Nc5,r4k2/1R2bp2/3p2p1/p2PN3/4n1P1/B7/5PK1/8 b - - 0 43,https://www.chess.com/game/live/169968836872
+2026-06-10,rapid,Bishops Opening,46,black,middlegame,True,30.4,Ke5,Kc7,1R3B2/8/2pk2p1/3p1p1p/4p2P/r1b4K/1p3P2/8 b - - 1 46,https://www.chess.com/game/live/169968190094
+2026-06-10,rapid,Bishops Opening,48,black,endgame,False,28.9,Be1,Bxb2,1R6/8/2p3p1/3p1p1p/4pk1P/2b4K/1B3P2/8 b - - 0 48,https://www.chess.com/game/live/169968190094
+2026-06-10,rapid,Bishops Opening,49,black,endgame,True,39.7,Ke5,Kf3,1R6/8/2p3p1/3p1p1p/4pk1P/7K/5P2/2B1b3 b - - 2 49,https://www.chess.com/game/live/169968190094
+2026-06-08,rapid,Kings Pawn Opening,17,white,middlegame,False,23.1,b3,Bb3,r2qr1k1/2p2pb1/p1n1bnpp/1p2p3/3pP3/N1PP1QNP/PPBB1PP1/R4RK1 w - - 0 17,https://www.chess.com/game/live/169872690110
+2026-06-08,rapid,Kings Pawn Opening,23,white,middlegame,True,22.5,Nxc7,a4,r3r1k1/2pq1pb1/5npp/1N2p3/2bpP3/5QNP/P1BB1PP1/R4RK1 w - - 0 23,https://www.chess.com/game/live/169872690110
+2026-06-08,rapid,Kings Pawn Opening,30,white,middlegame,False,26.8,f3,Rxc8,2r5/3q1pbk/5npp/4p3/2RpP3/3Q2NP/3B1PP1/6K1 w - - 3 30,https://www.chess.com/game/live/169872690110
+2026-06-07,rapid,Sicilian Defense,18,white,middlegame,False,29.4,Nh3,h3,2b4r/1p3pkp/p2p1np1/3P4/P2b4/1P1P1Q2/2P1KPPP/5BNR w - - 0 18,https://www.chess.com/game/live/169855323426
+2026-06-07,rapid,Sicilian Defense,26,white,middlegame,False,27.5,axb5,b4,2r5/5pkp/p2p2p1/1p1P4/P1Pb4/1P1PnP1N/6PP/1K3B1R w - - 0 26,https://www.chess.com/game/live/169855323426
+2026-06-07,rapid,Sicilian Defense,29,white,middlegame,False,23.4,Ka2,Kc1,1r6/5pkp/3p2p1/3P4/2Pb2P1/1P2nP1N/7P/1K3B1R w - - 1 29,https://www.chess.com/game/live/169855323426
+2026-06-07,rapid,Kings Pawn Opening Kings Knight Variation,23,black,middlegame,True,33.1,Bxg5,Rxh3+,rn1bk2r/3b1pp1/3pq3/1p2p1B1/pPp5/P4N1P/2P1BPPK/3RQ1R1 b kq - 2 23,https://www.chess.com/game/live/169847313192
+2026-06-07,rapid,Kings Pawn Opening Kings Knight Variation,28,black,middlegame,False,28.0,Ke6,f5,rn5r/3bkpp1/3p4/1p2p3/pPp5/P5NP/2PRBPPK/6R1 b - - 0 28,https://www.chess.com/game/live/169847313192
+2026-06-07,rapid,Kings Pawn Opening Kings Knight Variation,47,black,middlegame,False,51.2,gxh3,Kxb4,r7/8/7R/2P1pp2/pR4p1/k6P/5PPK/8 b - - 0 47,https://www.chess.com/game/live/169847313192
+2026-06-07,rapid,Kings Pawn Opening Kings Knight Variation,61,black,endgame,False,35.9,Kc3,Kc5,8/8/8/4pK2/R2k1p2/p3rP2/6P1/8 b - - 11 61,https://www.chess.com/game/live/169847313192
+2026-06-07,rapid,Kings Pawn Opening Kings Knight Variation,62,black,endgame,False,28.4,Kd2,Kd4,8/8/8/4pK2/5p2/R1k1rP2/6P1/8 b - - 0 62,https://www.chess.com/game/live/169847313192
+2026-06-07,rapid,Kings Pawn Opening St George Defense,13,white,middlegame,False,33.4,Qc7,Bg5,rn2k2r/1b3ppp/p2Qpq2/1p6/8/PnP2N1P/1P2BPP1/RNB1K2R w KQkq - 1 13,https://www.chess.com/game/live/169847054026
+2026-06-07,rapid,Queens Pawn Opening Horwitz Defense,13,black,middlegame,False,25.6,Rf7,Nf5,rn1q1rk1/1ppbn3/p3pb1p/3pN1pQ/3P4/2PB4/PP1N1PPP/R1B2RK1 b - - 3 13,https://www.chess.com/game/live/169846573698
+2026-06-07,rapid,Queens Pawn Opening Horwitz Defense,18,black,middlegame,False,27.6,Bxd4,Qxd4,rn1q2k1/1pp3r1/p3pb1Q/1b4p1/2NP4/3B4/PP3PPP/R1B2RK1 b - - 0 18,https://www.chess.com/game/live/169846573698
+2026-06-07,rapid,Sicilian Defense,35,white,endgame,False,21.9,g4,e8=B+,8/p2kPR1p/Pp1p4/4r3/8/7P/6PK/8 w - - 3 35,https://www.chess.com/game/live/169825028674
+2026-06-07,rapid,Kings Pawn Opening Kings Knight Variation,11,black,opening,True,28.6,Qxg5,hxg5,r1b1k1nr/pp3pp1/2pp3p/4q1B1/4P3/2N2B2/PPP2PPP/R2Q1RK1 b kq - 0 11,https://www.chess.com/game/live/169824920678
+2026-06-07,rapid,Kings Pawn Opening Kings Knight Variation,16,black,middlegame,False,30.5,Nxe4,O-O-O,r3k2r/pp3pp1/2ppbnqp/8/4P3/5B2/PPP1NPPP/R2QRK2 b kq - 9 16,https://www.chess.com/game/live/169824920678
+2026-06-07,rapid,Kings Pawn Opening Kings Knight Variation,24,black,middlegame,False,58.9,Qg5,Qe7,r4rk1/pp3pp1/2p1b2p/3p4/4N2q/1P2R1P1/P1P2P1P/R2Q2K1 b - - 0 24,https://www.chess.com/game/live/169824920678
+2026-06-07,rapid,Kings Pawn Opening,29,white,middlegame,False,36.0,f4,Qe6,r1n4q/1p6/1b1p1pk1/pPpPp1pr/P1P3QP/2KPB3/5P2/3R2NR w - - 3 29,https://www.chess.com/game/live/169824322072
+2026-06-07,rapid,Kings Pawn Opening,40,white,middlegame,False,33.6,Rg1+,Rf3,7r/1p2n3/1b1pN1k1/pP1Pp3/P1P5/2K5/8/4RR2 w - - 3 40,https://www.chess.com/game/live/169824322072
+2026-06-06,rapid,Kings Pawn Opening,14,white,middlegame,False,31.9,Ne2,Qh5+,r3k1r1/ppp4p/2npq2B/2b1pp2/8/2PP1Q1P/PP3PP1/RN2K1NR w KQq - 0 14,https://www.chess.com/game/live/169812343932
+2026-06-06,rapid,Kings Pawn Opening,20,white,middlegame,False,23.0,Ne4,b5,2kr2r1/bpp4p/p1np3q/P3p3/1P3p2/2PP1Q1P/3NNPP1/R4RK1 w - - 3 20,https://www.chess.com/game/live/169812343932
+2026-06-06,rapid,Kings Pawn Opening,25,white,middlegame,False,30.8,Nxf4,Qxf4,1k1rr3/bpp4p/p1n4q/P7/1P2ppQ1/1NP4P/4NPP1/R4RK1 w - - 2 25,https://www.chess.com/game/live/169812343932
+2026-06-06,rapid,Kings Pawn Opening,26,white,middlegame,False,24.0,f3,fxe3,1k1rr3/bpp4p/p1n4q/P7/1P3NQ1/1NP1p2P/5PP1/R4RK1 w - - 0 26,https://www.chess.com/game/live/169812343932
+2026-06-06,rapid,French Defense Normal Variation,9,black,opening,False,26.1,c6,Bd7,rnb1kbnr/1pp2pp1/p2p1q1p/3Pp3/Q1P1P3/2N1BN2/PP3PPP/R3KB1R b KQkq - 2 9,https://www.chess.com/game/live/169811198374
+2026-06-06,rapid,Kings Pawn Opening,14,black,middlegame,False,29.1,Ba6,Nxe4,rnb2rk1/p1b2pp1/2pp1nqp/4p3/2B1P3/B4Q1N/P1PPNPPP/R4RK1 b - - 3 14,https://www.chess.com/game/live/169808816982
+2026-06-06,rapid,Kings Pawn Opening,20,black,middlegame,True,42.6,Nb8,d5,r3r1k1/p1b2pp1/n1Np2qp/2p5/4n3/5Q1N/PBP2PPP/3R1RK1 b - - 3 20,https://www.chess.com/game/live/169808816982
+2026-06-06,rapid,Kings Pawn Opening,35,black,middlegame,False,79.2,Bb6,Rge8,1r4r1/p1bq1p1k/6p1/3p2Qp/2p5/8/3B1PPP/2R2RK1 b - - 1 35,https://www.chess.com/game/live/169808816982
+2026-06-06,rapid,Kings Pawn Opening,19,white,middlegame,True,34.2,Bxh5,g4,r3brk1/p4pb1/1pp2npp/3pN2n/3P4/1NP1B2P/PP2BPP1/R4RK1 w - - 2 19,https://www.chess.com/game/live/169778984514
+2026-06-06,rapid,Kings Pawn Opening,38,white,middlegame,False,35.1,Kf1,Ng5+,6r1/p4N1k/1p2b3/2pR4/4nR1B/2P5/PP6/6K1 w - - 1 38,https://www.chess.com/game/live/169778984514
+2026-06-06,rapid,Kings Pawn Opening,39,white,middlegame,False,46.6,Rf5,Ke2,6r1/p4N1k/1p6/2pb4/4nR1B/2P5/PP6/5K2 w - - 0 39,https://www.chess.com/game/live/169778984514
+2026-06-06,rapid,Kings Pawn Opening,45,white,middlegame,True,35.1,Bd6,Rg7+,8/p3BR2/1p6/2p5/2P1n1k1/1P5r/P5K1/8 w - - 3 45,https://www.chess.com/game/live/169778984514
+2026-06-06,rapid,Kings Pawn Opening,47,white,endgame,True,54.6,Rxa7,Rh7+,8/p5R1/1p1n4/2p5/2P4k/1P5r/P5K1/8 w - - 2 47,https://www.chess.com/game/live/169778984514
+2026-06-06,rapid,Kings Pawn Opening,52,white,endgame,True,22.8,Kd1,Rxd6,8/8/1R1n4/2p5/2P5/1P2k3/P1r5/4K3 w - - 5 52,https://www.chess.com/game/live/169778984514
+2026-06-06,rapid,Kings Pawn Opening,54,white,endgame,True,26.5,Re6,b4,8/8/1R6/2p5/2P1n3/1P2k3/P2r4/2K5 w - - 9 54,https://www.chess.com/game/live/169778984514
+2026-06-06,rapid,Kings Pawn Opening,55,white,endgame,True,43.4,Re5,Rxe4,8/8/4R3/2p5/2P1n3/1P1k4/P2r4/2K5 w - - 11 55,https://www.chess.com/game/live/169778984514
+2026-06-06,rapid,Kings Pawn Opening,31,white,middlegame,True,23.4,O-O,c5,1n1r2k1/2p2q1p/3n1rp1/4p3/2Pp3Q/P2P2NP/2B2PP1/1R2K2R w K - 3 31,https://www.chess.com/game/live/169777546314
+2026-06-06,rapid,Kings Pawn Opening,33,white,middlegame,True,30.7,f3,Qxd8+,1n1r2k1/2p2q1p/6p1/4pr2/2Pp3Q/P2P3P/2B2PP1/1R3RK1 w - - 0 33,https://www.chess.com/game/live/169777546314
+2026-06-06,rapid,French Defense Steinitz Attack,8,white,opening,True,41.5,Nf3,Qxd6,rn1qk2r/pp1b1ppp/3bpn2/8/3Q4/2P4P/PP3PP1/RNB1KBNR w KQkq - 1 8,https://www.chess.com/game/live/169777447020
+2026-06-06,rapid,French Defense Steinitz Attack,14,white,middlegame,True,23.7,O-O,Qxd5,r3r1k1/ppqb1ppp/2nb4/3np3/PP6/2P2N1P/3QBPP1/RNB1K2R w KQ - 0 14,https://www.chess.com/game/live/169777447020
+2026-06-05,rapid,Kings Pawn Opening Kings Knight Variation,31,black,middlegame,False,27.8,Qxf3,Nb6,r4rk1/5p2/p2p1qp1/1ppPp2n/2n1P2P/P4P2/NPP5/1K1RQBR1 b - - 0 31,https://www.chess.com/game/live/169772526778
+2026-06-05,rapid,Kings Pawn Opening Kings Knight Variation,39,black,middlegame,False,47.5,Ne3,Rxf1,r4r2/6k1/pq1pB1p1/1ppPp3/2n4Q/P7/NPP5/1K1R1R2 b - - 3 39,https://www.chess.com/game/live/169772526778
+2026-06-05,rapid,Kings Pawn Opening Kings Knight Variation,11,black,opening,False,29.2,Bh4,Nf6,r1b1k1nr/pp2bpp1/2p3qp/4p3/2B1P3/2N1B2P/PPP2PP1/R2Q1R1K b kq - 3 11,https://www.chess.com/game/live/169728512280
+2026-06-05,rapid,Kings Pawn Opening Kings Knight Variation,18,black,middlegame,False,24.4,c5,Qh5,r4rk1/p4pp1/1pp2nqp/4p3/2B1P3/2N1Q1Pb/PPP2P2/3R2RK b - - 2 18,https://www.chess.com/game/live/169728512280
+2026-06-05,rapid,Kings Pawn Opening Kings Knight Variation,19,black,middlegame,False,68.2,Nxe4,Qh5,r4rk1/p4pp1/1p3nqp/2pNp3/2B1P3/4Q1Pb/PPP2P2/3R2RK b - - 1 19,https://www.chess.com/game/live/169728512280
+2026-06-05,rapid,Queens Pawn Opening Horwitz Defense,26,black,middlegame,False,26.0,Kf7,Rxg2,4r1k1/ppp3p1/7p/7P/3P2p1/2PK2P1/PP2prP1/4R2R b - - 4 26,https://www.chess.com/game/live/169728047600
+2026-06-05,rapid,Queens Pawn Opening Horwitz Defense,27,black,middlegame,False,26.7,c6,Rxg2,4r3/ppp2kp1/7p/7P/1P1P2p1/2PK2P1/P3prP1/4R2R b - - 0 27,https://www.chess.com/game/live/169728047600
+2026-06-05,rapid,Queens Pawn Opening Horwitz Defense,28,black,middlegame,False,27.9,b6,Rxg2,4r3/pp3kp1/2p4p/7P/1PPP2p1/3K2P1/P3prP1/4R2R b - - 0 28,https://www.chess.com/game/live/169728047600
+2026-06-04,rapid,Modern Defense with,38,white,middlegame,False,33.4,Bd2,Bxg5,8/1b6/k2r1b1R/1pp3p1/1P1P4/P1P2N1P/6P1/2B3K1 w - - 1 38,https://www.chess.com/game/live/169680123648
+2026-06-04,rapid,Modern Defense with,39,white,middlegame,False,30.5,cxd4,Bxg5,8/1b6/k2r1b1R/1p4p1/1P1p4/P1P2N1P/3B2P1/6K1 w - - 0 39,https://www.chess.com/game/live/169680123648
+2026-06-04,rapid,Modern Defense with,40,white,middlegame,False,32.8,gxf3,Rxf6,8/8/k2r1b1R/1p4p1/1P1P4/P4b1P/3B2P1/6K1 w - - 0 40,https://www.chess.com/game/live/169680123648
+2026-06-04,rapid,Kings Pawn Opening,42,white,endgame,False,23.3,Kd3,Kf3,8/2p5/1p6/p2kN1p1/3Pnp2/P1P1K3/1P3P2/8 w - - 0 42,https://www.chess.com/game/live/169679316732
+2026-06-04,rapid,Vienna Game,34,black,middlegame,True,21.8,h5,g4+,5r2/1p6/2pp2kp/1p1Pp1p1/1P2P3/P1P1R1PK/5r1P/4R3 b - - 4 34,https://www.chess.com/game/live/169678958430
+2026-06-04,rapid,Vienna Game,35,black,middlegame,False,21.3,R2f6,cxd5,5r2/1p6/2pp2k1/1p1Pp1pp/1P2P3/P1P1R1PK/4Rr1P/8 b - - 1 35,https://www.chess.com/game/live/169678958430
+2026-06-04,rapid,Kings Pawn Opening Kings Knight Variation,32,black,middlegame,False,29.1,Qxd5,Qb5,5rk1/4Q1p1/1p1p1p1p/2qP4/8/4bNP1/7P/5R1K b - - 2 32,https://www.chess.com/game/live/169677828438
+2026-06-04,rapid,Kings Pawn Opening,22,white,middlegame,True,72.6,Rxf2,Qxe6+,r2q2k1/ppp4p/2npb1p1/4p3/6Qb/2PPB2P/PP1N1rP1/R2B1RK1 w - - 0 22,https://www.chess.com/game/live/169676207708
+2026-06-03,rapid,Kings Gambit Accepted Becker Defense,21,black,middlegame,False,25.5,Nxc2,N4c6,1n1bk2r/5p2/7p/r1q1P1p1/1n3p2/P4N2/2P1B1PP/RQ3R1K b k - 0 21,https://www.chess.com/game/live/169631411548
