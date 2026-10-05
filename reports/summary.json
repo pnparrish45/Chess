@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T18:37+00:00",
+  "generated_at": "2026-10-05T19:38+00:00",
   "username": "swed45",
   "engine_depth": 12,
   "time_classes_included": "all",
@@ -20,25 +20,25 @@
     "note": "Thresholds are conventions chosen for this report, not measured facts. Engine evals at this depth are approximate. 'Accuracy' here uses the lichess per-move formula averaged; it is NOT chess.com's CAPS number."
   },
   "overview": {
-    "games_on_disk": 5964,
-    "games_engine_analyzed": 389,
+    "games_on_disk": 6014,
+    "games_engine_analyzed": 586,
     "games_failed_parse": 0,
-    "games_too_short_skipped": 11,
+    "games_too_short_skipped": 14,
     "first_game": "2022-01-18",
-    "last_game": "2026-09-27",
+    "last_game": "2026-10-05",
     "analyzed_window": [
-      "2026-06-03",
-      "2026-09-27"
+      "2026-04-17",
+      "2026-10-05"
     ],
     "by_time_class": {
       "rapid": {
-        "games": 5949,
-        "wins": 2824,
-        "draws": 272,
-        "losses": 2853,
-        "score_pct": 49.8,
+        "games": 5999,
+        "wins": 2845,
+        "draws": 275,
+        "losses": 2879,
+        "score_pct": 49.7,
         "rating_first": 1342,
-        "rating_last": 1007,
+        "rating_last": 969,
         "rating_peak": 1457
       },
       "daily": {
@@ -64,177 +64,177 @@
     }
   },
   "chaos": {
-    "games": 382,
+    "games": 577,
     "tercile_cuts": [
       0.05,
       0.096
     ],
-    "score_high_chaos": 47.2,
-    "n_high": 127,
-    "score_low_chaos": 52.0,
-    "n_low": 127,
-    "median_chaos_index": 0.073,
-    "me_sharp_moves": 990,
-    "me_sharp_errors": 229,
-    "me_sharp_error_rate": 23.1,
+    "score_high_chaos": 46.9,
+    "n_high": 192,
+    "score_low_chaos": 51.8,
+    "n_low": 192,
+    "median_chaos_index": 0.074,
+    "me_sharp_moves": 1485,
+    "me_sharp_errors": 345,
+    "me_sharp_error_rate": 23.2,
     "me_nonsharp_error_rate": 3.5,
-    "opp_sharp_moves": 921,
-    "opp_sharp_errors": 194,
-    "opp_sharp_error_rate": 21.1,
+    "opp_sharp_moves": 1414,
+    "opp_sharp_errors": 297,
+    "opp_sharp_error_rate": 21.0,
     "opp_nonsharp_error_rate": 3.8,
-    "chaos_dividend_per_game": -0.09,
-    "opposite_castling_games": 67,
-    "opposite_castling_score": 45.5,
-    "imbalanced_games": 75,
-    "imbalanced_score": 44.7,
-    "overall_score": 49.6,
-    "games_reached_lost_position": 251,
-    "saved_from_lost_rate": 28.7,
-    "missed_punishes_total": 133,
-    "opp_blunders_total": 378
+    "chaos_dividend_per_game": -0.08,
+    "opposite_castling_games": 96,
+    "opposite_castling_score": 45.8,
+    "imbalanced_games": 111,
+    "imbalanced_score": 46.8,
+    "overall_score": 48.2,
+    "games_reached_lost_position": 391,
+    "saved_from_lost_rate": 28.4,
+    "missed_punishes_total": 206,
+    "opp_blunders_total": 568
   },
   "precision": {
-    "games_reached_winning_position": 247,
-    "converted_rate": 68.4,
-    "thrown_to_loss_rate": 28.3,
+    "games_reached_winning_position": 367,
+    "converted_rate": 68.1,
+    "thrown_to_loss_rate": 28.1,
     "my_blunders_per_game": 0.94,
     "my_mistakes_per_game": 0.88,
-    "my_inaccuracies_per_game": 2.7,
+    "my_inaccuracies_per_game": 2.68,
     "opp_blunders_per_game": 0.97,
     "my_avg_accuracy": 84.8,
-    "opp_avg_accuracy": 85.0,
+    "opp_avg_accuracy": 85.2,
     "phase": {
       "opening": {
-        "my_moves": 4614,
-        "my_errors": 128,
+        "my_moves": 6957,
+        "my_errors": 194,
         "my_error_rate": 2.8,
-        "opp_moves": 4614,
-        "opp_errors": 150,
-        "opp_error_rate": 3.3
+        "opp_moves": 6959,
+        "opp_errors": 223,
+        "opp_error_rate": 3.2
       },
       "middlegame": {
-        "my_moves": 8268,
-        "my_errors": 509,
-        "my_error_rate": 6.2,
-        "opp_moves": 8290,
-        "opp_errors": 507,
-        "opp_error_rate": 6.1
+        "my_moves": 12565,
+        "my_errors": 764,
+        "my_error_rate": 6.1,
+        "opp_moves": 12594,
+        "opp_errors": 752,
+        "opp_error_rate": 6.0
       },
       "endgame": {
-        "my_moves": 1786,
-        "my_errors": 71,
-        "my_error_rate": 4.0,
-        "opp_moves": 1768,
-        "opp_errors": 61,
-        "opp_error_rate": 3.5
+        "my_moves": 2592,
+        "my_errors": 109,
+        "my_error_rate": 4.2,
+        "opp_moves": 2577,
+        "opp_errors": 100,
+        "opp_error_rate": 3.9
       }
     }
   },
   "clock": {
-    "timed_games": 389,
-    "my_pressure_moves": 102,
-    "my_pressure_errors": 6,
-    "my_pressure_error_rate": 5.9,
+    "timed_games": 586,
+    "my_pressure_moves": 178,
+    "my_pressure_errors": 8,
+    "my_pressure_error_rate": 4.5,
     "my_calm_error_rate": 4.8,
-    "my_calm_moves": 14566,
-    "avg_seconds_on_sharp_moves": 5.21,
-    "n_sharp_timed": 990,
-    "avg_seconds_on_other_moves": 6.45,
-    "n_other_timed": 13678,
+    "my_calm_moves": 21936,
+    "avg_seconds_on_sharp_moves": 5.27,
+    "n_sharp_timed": 1485,
+    "avg_seconds_on_other_moves": 6.41,
+    "n_other_timed": 20629,
     "losses_on_time_all_games": 44,
-    "wins_on_time_all_games": 296,
-    "losses_all_games": 2863
+    "wins_on_time_all_games": 297,
+    "losses_all_games": 2889
   },
   "openings": [
     {
       "color": "white",
       "family": "Kings Pawn Opening",
-      "games": 1792,
+      "games": 1800,
       "score_pct": 54.3,
       "sample_ok": true,
-      "analyzed": 104,
-      "opening_errors_per_game": 0.23
+      "analyzed": 160,
+      "opening_errors_per_game": 0.26
     },
     {
       "color": "black",
       "family": "Kings Pawn Opening",
-      "games": 1344,
+      "games": 1354,
       "score_pct": 50.1,
       "sample_ok": true,
-      "analyzed": 90,
-      "opening_errors_per_game": 0.36
+      "analyzed": 134,
+      "opening_errors_per_game": 0.38
     },
     {
       "color": "black",
       "family": "Queens Pawn Opening",
-      "games": 462,
-      "score_pct": 42.9,
+      "games": 465,
+      "score_pct": 42.8,
       "sample_ok": true,
-      "analyzed": 27,
-      "opening_errors_per_game": 0.48
+      "analyzed": 41,
+      "opening_errors_per_game": 0.39
     },
     {
       "color": "white",
       "family": "Scandinavian Defense",
-      "games": 260,
-      "score_pct": 46.9,
+      "games": 265,
+      "score_pct": 46.8,
+      "sample_ok": true,
+      "analyzed": 27,
+      "opening_errors_per_game": 0.26
+    },
+    {
+      "color": "black",
+      "family": "Bishops Opening",
+      "games": 254,
+      "score_pct": 46.7,
+      "sample_ok": true,
+      "analyzed": 32,
+      "opening_errors_per_game": 0.31
+    },
+    {
+      "color": "white",
+      "family": "Sicilian Defense",
+      "games": 219,
+      "score_pct": 46.8,
+      "sample_ok": true,
+      "analyzed": 26,
+      "opening_errors_per_game": 0.58
+    },
+    {
+      "color": "white",
+      "family": "Caro Kann Defense",
+      "games": 211,
+      "score_pct": 47.9,
       "sample_ok": true,
       "analyzed": 18,
       "opening_errors_per_game": 0.22
     },
     {
-      "color": "black",
-      "family": "Bishops Opening",
-      "games": 253,
-      "score_pct": 46.8,
-      "sample_ok": true,
-      "analyzed": 22,
-      "opening_errors_per_game": 0.32
-    },
-    {
-      "color": "white",
-      "family": "Sicilian Defense",
-      "games": 214,
-      "score_pct": 47.0,
-      "sample_ok": true,
-      "analyzed": 16,
-      "opening_errors_per_game": 0.5
-    },
-    {
-      "color": "white",
-      "family": "Caro Kann Defense",
-      "games": 210,
-      "score_pct": 47.6,
-      "sample_ok": true,
-      "analyzed": 9,
-      "opening_errors_per_game": 0.44
-    },
-    {
       "color": "white",
       "family": "French Defense",
-      "games": 201,
-      "score_pct": 49.5,
+      "games": 202,
+      "score_pct": 49.8,
       "sample_ok": true,
-      "analyzed": 23,
-      "opening_errors_per_game": 0.3
+      "analyzed": 28,
+      "opening_errors_per_game": 0.25
     },
     {
       "color": "black",
       "family": "Vienna Game",
-      "games": 139,
-      "score_pct": 51.4,
+      "games": 140,
+      "score_pct": 51.1,
       "sample_ok": true,
-      "analyzed": 9,
-      "opening_errors_per_game": 0.56
+      "analyzed": 14,
+      "opening_errors_per_game": 0.57
     },
     {
       "color": "black",
       "family": "French Defense",
-      "games": 136,
-      "score_pct": 48.5,
+      "games": 138,
+      "score_pct": 47.8,
       "sample_ok": true,
-      "analyzed": 10,
-      "opening_errors_per_game": 0.6
+      "analyzed": 13,
+      "opening_errors_per_game": 0.46
     },
     {
       "color": "black",
@@ -242,17 +242,17 @@
       "games": 101,
       "score_pct": 50.0,
       "sample_ok": true,
-      "analyzed": 1,
+      "analyzed": 2,
       "opening_errors_per_game": 0.0
     },
     {
       "color": "white",
       "family": "Pirc Defense",
-      "games": 90,
-      "score_pct": 42.2,
+      "games": 91,
+      "score_pct": 41.8,
       "sample_ok": true,
-      "analyzed": 6,
-      "opening_errors_per_game": 0.67
+      "analyzed": 7,
+      "opening_errors_per_game": 0.57
     },
     {
       "color": "black",
@@ -260,8 +260,8 @@
       "games": 74,
       "score_pct": 45.9,
       "sample_ok": true,
-      "analyzed": 6,
-      "opening_errors_per_game": 0.33
+      "analyzed": 9,
+      "opening_errors_per_game": 0.22
     },
     {
       "color": "black",
@@ -269,8 +269,8 @@
       "games": 67,
       "score_pct": 41.8,
       "sample_ok": true,
-      "analyzed": 4,
-      "opening_errors_per_game": 0.25
+      "analyzed": 5,
+      "opening_errors_per_game": 0.4
     },
     {
       "color": "white",
@@ -278,26 +278,35 @@
       "games": 61,
       "score_pct": 52.5,
       "sample_ok": true,
-      "analyzed": 4,
+      "analyzed": 6,
       "opening_errors_per_game": 0.5
     },
     {
       "color": "white",
       "family": "Modern Defense",
-      "games": 49,
-      "score_pct": 54.1,
+      "games": 50,
+      "score_pct": 55.0,
       "sample_ok": true,
-      "analyzed": 4,
+      "analyzed": 5,
       "opening_errors_per_game": 0.0
     },
     {
       "color": "white",
       "family": "Owens Defense",
-      "games": 44,
-      "score_pct": 47.7,
+      "games": 45,
+      "score_pct": 48.9,
       "sample_ok": true,
-      "analyzed": 3,
+      "analyzed": 5,
       "opening_errors_per_game": 0.0
+    },
+    {
+      "color": "black",
+      "family": "Kings Gambit",
+      "games": 44,
+      "score_pct": 39.8,
+      "sample_ok": true,
+      "analyzed": 11,
+      "opening_errors_per_game": 0.64
     },
     {
       "color": "black",
@@ -310,21 +319,21 @@
     },
     {
       "color": "black",
-      "family": "Kings Gambit",
-      "games": 42,
-      "score_pct": 41.7,
+      "family": "Scotch Game",
+      "games": 33,
+      "score_pct": 51.5,
       "sample_ok": true,
-      "analyzed": 6,
-      "opening_errors_per_game": 0.5
+      "analyzed": 3,
+      "opening_errors_per_game": 0.33
     },
     {
       "color": "black",
-      "family": "Scotch Game",
-      "games": 31,
-      "score_pct": 51.6,
+      "family": "Nimzowitsch Defense",
+      "games": 27,
+      "score_pct": 35.2,
       "sample_ok": true,
-      "analyzed": 1,
-      "opening_errors_per_game": 0.0
+      "analyzed": 6,
+      "opening_errors_per_game": 0.17
     },
     {
       "color": "black",
@@ -332,8 +341,8 @@
       "games": 27,
       "score_pct": 46.3,
       "sample_ok": true,
-      "analyzed": 1,
-      "opening_errors_per_game": 0.0
+      "analyzed": 3,
+      "opening_errors_per_game": 0.33
     },
     {
       "color": "black",
@@ -343,15 +352,6 @@
       "sample_ok": true,
       "analyzed": 0,
       "opening_errors_per_game": null
-    },
-    {
-      "color": "black",
-      "family": "Nimzowitsch Defense",
-      "games": 26,
-      "score_pct": 36.5,
-      "sample_ok": true,
-      "analyzed": 4,
-      "opening_errors_per_game": 0.25
     },
     {
       "color": "black",
@@ -368,16 +368,16 @@
       "games": 24,
       "score_pct": 35.4,
       "sample_ok": true,
-      "analyzed": 3,
-      "opening_errors_per_game": 0.33
+      "analyzed": 4,
+      "opening_errors_per_game": 0.25
     },
     {
       "color": "black",
       "family": "Reti Opening",
-      "games": 23,
-      "score_pct": 56.5,
+      "games": 24,
+      "score_pct": 58.3,
       "sample_ok": true,
-      "analyzed": 2,
+      "analyzed": 3,
       "opening_errors_per_game": 0.0
     },
     {
@@ -386,17 +386,26 @@
       "games": 21,
       "score_pct": 59.5,
       "sample_ok": true,
-      "analyzed": 1,
-      "opening_errors_per_game": 1.0
+      "analyzed": 2,
+      "opening_errors_per_game": 0.5
     },
     {
       "color": "black",
       "family": "Ruy Lopez Opening",
-      "games": 12,
-      "score_pct": 33.3,
+      "games": 13,
+      "score_pct": 34.6,
       "sample_ok": true,
-      "analyzed": 0,
-      "opening_errors_per_game": null
+      "analyzed": 1,
+      "opening_errors_per_game": 0.0
+    },
+    {
+      "color": "black",
+      "family": "Philidor Defense",
+      "games": 12,
+      "score_pct": 66.7,
+      "sample_ok": true,
+      "analyzed": 2,
+      "opening_errors_per_game": 0.0
     },
     {
       "color": "black",
@@ -415,15 +424,6 @@
       "sample_ok": true,
       "analyzed": 0,
       "opening_errors_per_game": null
-    },
-    {
-      "color": "black",
-      "family": "Philidor Defense",
-      "games": 11,
-      "score_pct": 63.6,
-      "sample_ok": true,
-      "analyzed": 1,
-      "opening_errors_per_game": 0.0
     },
     {
       "color": "black",
@@ -485,8 +485,8 @@
       "games": 7,
       "score_pct": 57.1,
       "sample_ok": false,
-      "analyzed": 0,
-      "opening_errors_per_game": null
+      "analyzed": 1,
+      "opening_errors_per_game": 0.0
     },
     {
       "color": "black",
@@ -512,7 +512,7 @@
       "games": 5,
       "score_pct": 60.0,
       "sample_ok": false,
-      "analyzed": 1,
+      "analyzed": 2,
       "opening_errors_per_game": 0.0
     },
     {
@@ -530,7 +530,7 @@
       "games": 5,
       "score_pct": 40.0,
       "sample_ok": false,
-      "analyzed": 1,
+      "analyzed": 2,
       "opening_errors_per_game": 1.0
     },
     {
@@ -580,6 +580,15 @@
     },
     {
       "color": "white",
+      "family": "Alapin Sicilian Defense",
+      "games": 3,
+      "score_pct": 33.3,
+      "sample_ok": false,
+      "analyzed": 2,
+      "opening_errors_per_game": 0.0
+    },
+    {
+      "color": "white",
       "family": "Petrovs Defense",
       "games": 2,
       "score_pct": 100.0,
@@ -625,12 +634,12 @@
     },
     {
       "color": "white",
-      "family": "Alapin Sicilian Defense",
+      "family": "Queens Pawn Opening",
       "games": 2,
-      "score_pct": 50.0,
+      "score_pct": 0.0,
       "sample_ok": false,
       "analyzed": 1,
-      "opening_errors_per_game": 0.0
+      "opening_errors_per_game": 1.0
     },
     {
       "color": "white",
@@ -750,15 +759,6 @@
       "opening_errors_per_game": null
     },
     {
-      "color": "white",
-      "family": "Queens Pawn Opening",
-      "games": 1,
-      "score_pct": 0.0,
-      "sample_ok": false,
-      "analyzed": 0,
-      "opening_errors_per_game": null
-    },
-    {
       "color": "black",
       "family": "Bogo Indian Defense",
       "games": 1,
@@ -805,20 +805,20 @@
     }
   ],
   "tilt": {
-    "score_after_loss": 50.2,
-    "n_after_loss": 1140,
-    "score_after_win": 50.5,
-    "n_after_win": 1350,
+    "score_after_loss": 50.1,
+    "n_after_loss": 1155,
+    "score_after_win": 50.3,
+    "n_after_win": 1361,
     "score_after_draw": 52.6,
     "n_after_draw": 117
   },
   "puzzles": {
-    "total": 708,
-    "sharp": 229,
+    "total": 1067,
+    "sharp": 345,
     "by_phase": {
-      "opening": 128,
-      "middlegame": 509,
-      "endgame": 71
+      "opening": 194,
+      "middlegame": 764,
+      "endgame": 109
     }
   }
 }
