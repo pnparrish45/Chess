@@ -1,8 +1,8 @@
 # Chess report: swed45
 
-Generated 2026-10-05T19:38+00:00 UTC · Stockfish depth 12 · time classes: all
+Generated 2026-10-12T20:18+00:00 UTC · Stockfish depth 12 · time classes: all
 
-Games on disk: **6014** (2022-01-18 → 2026-10-05). Engine-analyzed: **586** (2026-04-17 → 2026-10-05). Failed to parse: 0. Under 10 plies (skipped): 14.
+Games on disk: **6067** (2022-01-18 → 2026-10-12). Engine-analyzed: **785** (2026-03-30 → 2026-10-12). Failed to parse: 0. Under 10 plies (skipped): 15.
 
 > Thresholds below are conventions, not measurements (see `summary.json → assumptions`). Any rate on fewer than 10 observations prints as **short**.
 
@@ -10,7 +10,7 @@ Games on disk: **6014** (2022-01-18 → 2026-10-05). Engine-analyzed: **586** (2
 
 | Time class | Games | W / D / L | Score | Rating first → last (peak) |
 |---|---|---|---|---|
-| rapid | 5999 | 2845 / 275 / 2879 | 49.7% | 1342 → 969 (1457) |
+| rapid | 6052 | 2869 / 278 / 2905 | 49.7% | 1342 → 961 (1457) |
 | daily | 14 | 4 / 0 / 10 | 28.6% | 1006 → 1002 (1178) |
 | blitz | 1 | 1 / 0 / 0 | 100.0% | 1031 → 1031 (1031) |
 
@@ -18,63 +18,63 @@ Games on disk: **6014** (2022-01-18 → 2026-10-05). Engine-analyzed: **586** (2
 
 A position is *sharp* when the best move beats the second-best by ≥15 win-chance points (miss it and you're in trouble). Chaos index = share of positions after move 8 that are sharp.
 
-- Median chaos index of your games: **0.074**
-- Score in your most chaotic third of games: **46.9%** (n=192) vs calmest third: **51.8%** (n=192). Overall: 48.2%.
-- Error rate (mistake or blunder) on sharp moves: **you 23.2%** (n=1485) vs **opponents 21.0%** (n=1414)
-- Error rate on non-sharp moves: you 3.5%, opponents 3.8%
-- **Chaos dividend**: -0.08 per game (opponent sharp-move errors minus yours; positive = chaos favors you)
-- Score in opposite-side castling games: 45.8%; n=96
-- Score in imbalanced-material games: 46.8%; n=111
-- Reached a lost position (≤20% win chance) in 391 games; saved (drew or won) 28.4%
-- Opponent blunders: 568. Times you answered one with a mistake of your own (missed punish): **206**
+- Median chaos index of your games: **0.075**
+- Score in your most chaotic third of games: **44.4%** (n=257) vs calmest third: **54.1%** (n=257). Overall: 49.2%.
+- Error rate (mistake or blunder) on sharp moves: **you 22.7%** (n=2022) vs **opponents 21.8%** (n=1923)
+- Error rate on non-sharp moves: you 3.5%, opponents 3.7%
+- **Chaos dividend**: -0.05 per game (opponent sharp-move errors minus yours; positive = chaos favors you)
+- Score in opposite-side castling games: 44.6%; n=130
+- Score in imbalanced-material games: 49.3%; n=150
+- Reached a lost position (≤20% win chance) in 513 games; saved (drew or won) 29.0%
+- Opponent blunders: 753. Times you answered one with a mistake of your own (missed punish): **258**
 
 ## 2. Precision: finishing like Fischer
 
-- Reached a winning position (≥80% win chance) in 367 games. Converted to a win: **68.1%**. Went on to lose: 28.1%.
-- Per game: 0.94 blunders, 0.88 mistakes, 2.68 inaccuracies (opponents: 0.97 blunders)
-- Average move accuracy (lichess formula, not chess.com CAPS): you 84.8, opponents 85.2
+- Reached a winning position (≥80% win chance) in 497 games. Converted to a win: **68.4%**. Went on to lose: 26.6%.
+- Per game: 0.95 blunders, 0.85 mistakes, 2.64 inaccuracies (opponents: 0.96 blunders)
+- Average move accuracy (lichess formula, not chess.com CAPS): you 84.9, opponents 85.3
 
 | Phase | Your moves | Your error rate | Opp error rate |
 |---|---|---|---|
-| opening | 6957 | 2.8% | 3.2% |
-| middlegame | 12565 | 6.1% | 6.0% |
-| endgame | 2592 | 4.2% | 3.9% |
+| opening | 9305 | 2.7% | 3.2% |
+| middlegame | 16824 | 6.1% | 6.0% |
+| endgame | 3515 | 4.0% | 3.6% |
 
 ## 3. Clock
 
-- Error rate under time pressure (<10% of starting clock): **4.5%** (n=178) vs otherwise 4.8%
-- Average seconds per move on sharp moves: **5.27** (n=1485) vs other moves: **6.41** (n=20629)
-- Losses on time: 44 of 2889 losses (all games). Wins on time: 297.
+- Error rate under time pressure (<10% of starting clock): **5.7%** (n=209) vs otherwise 4.8%
+- Average seconds per move on sharp moves: **5.2** (n=2022) vs other moves: **6.31** (n=27622)
+- Losses on time: 47 of 2915 losses (all games). Wins on time: 299.
 
 ## 4. Openings (all games; families with ≥10 games ranked)
 
 | Color | Opening family | Games | Score | Opening-phase errors / game (analyzed) |
 |---|---|---|---|---|
-| white | Kings Pawn Opening | 1800 | 54.3% | 0.26 (n=160) |
-| black | Kings Pawn Opening | 1354 | 50.1% | 0.38 (n=134) |
-| black | Queens Pawn Opening | 465 | 42.8% | 0.39 (n=41) |
-| white | Scandinavian Defense | 265 | 46.8% | 0.26 (n=27) |
-| black | Bishops Opening | 254 | 46.7% | 0.31 (n=32) |
-| white | Sicilian Defense | 219 | 46.8% | 0.58 (n=26) |
-| white | Caro Kann Defense | 211 | 47.9% | 0.22 (n=18) |
-| white | French Defense | 202 | 49.8% | 0.25 (n=28) |
-| black | Vienna Game | 140 | 51.1% | 0.57 (n=14) |
-| black | French Defense | 138 | 47.8% | 0.46 (n=13) |
+| white | Kings Pawn Opening | 1807 | 54.4% | 0.27 (n=213) |
+| black | Kings Pawn Opening | 1357 | 50.0% | 0.33 (n=180) |
+| black | Queens Pawn Opening | 469 | 42.6% | 0.4 (n=57) |
+| white | Scandinavian Defense | 267 | 46.4% | 0.24 (n=34) |
+| black | Bishops Opening | 255 | 46.9% | 0.32 (n=38) |
+| white | Sicilian Defense | 219 | 46.8% | 0.56 (n=32) |
+| white | Caro Kann Defense | 213 | 48.4% | 0.29 (n=28) |
+| white | French Defense | 203 | 49.5% | 0.25 (n=32) |
+| black | Vienna Game | 143 | 51.4% | 0.43 (n=21) |
+| black | French Defense | 138 | 47.8% | 0.4 (n=15) |
 | black | Center Game | 101 | 50.0% | 0.0 (n=2) |
-| white | Pirc Defense | 91 | 41.8% | 0.57 (n=7) |
-| black | English Opening | 74 | 45.9% | 0.22 (n=9) |
-| black | Van t Kruijs Opening | 67 | 41.8% | 0.4 (n=5) |
-| white | Nimzowitsch Defense | 61 | 52.5% | 0.5 (n=6) |
+| white | Pirc Defense | 93 | 42.5% | 0.55 (n=11) |
+| black | English Opening | 74 | 45.9% | 0.36 (n=11) |
+| black | Van t Kruijs Opening | 68 | 42.6% | 0.5 (n=6) |
+| white | Nimzowitsch Defense | 61 | 52.5% | 0.71 (n=7) |
 
 40 other families have fewer than 10 games each (in summary.json, not ranked).
 
 ## 5. Tilt (next game started within 15 min)
 
-- After a loss: 50.1% (n=1155)
-- After a win: 50.3% (n=1361)
-- After a draw: 52.6% (n=117)
+- After a loss: 50.3% (n=1169)
+- After a win: 50.3% (n=1372)
+- After a draw: 52.1% (n=118)
 
 ## 6. Your drill deck
 
-`puzzles.csv` holds **1067** of your own mistakes/blunders with the engine's move (345 in sharp positions; by phase {'opening': 194, 'middlegame': 764, 'endgame': 109}). Paste a FEN into chess.com → Analysis board to drill it.
+`puzzles.csv` holds **1418** of your own mistakes/blunders with the engine's move (458 in sharp positions; by phase {'opening': 254, 'middlegame': 1025, 'endgame': 139}). Paste a FEN into chess.com → Analysis board to drill it.
 
